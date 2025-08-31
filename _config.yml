@@ -6,5 +6,4 @@ search_enabled: true
 aux_links:
   "CARP on GitHub":
     - "https://github.com/Cal-Poly-RAMP"
-nav_enabled: true
-logo: /assets/logo.png   # optional
+logo: /assets/logo.png
