@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+title: CARP Docs
+description: Student-led RISC-V SoC from RTL to silicon on Sky130
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+search_enabled: true
+aux_links:
+  "CARP on GitHub":
+    - "https://github.com/Cal-Poly-RAMP"
+nav_enabled: true
+logo: /assets/logo.png   # optional
