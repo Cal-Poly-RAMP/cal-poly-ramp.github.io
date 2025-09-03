@@ -10,7 +10,7 @@ nav_order: 1
 - [Toolchain Quickstart Usage Guides](docs/usage-guides.md)
 - [CARP Core](docs/carp-core.md)
 - [RISC-V Resources](docs/riscv-isa.md)
-- [SKY 130 Memory Resources](docs/sky130-sram.md)
+- [Memory Resources](docs/memory_target_diffs.md)
 
 ## Meetings
 
