@@ -9,7 +9,7 @@ Start here. Install Docker, run Spike, then the ASIC flow hello world.
 
 ## Documentation
 
-- [Dockerized toolchain](docs/docker-tools.md)
+- [asic toolchain Installation Guide](docs/asic-tools.md)
 - [RISC-V ISA](docs/riscv-isa.md)
 - [Z-extensions](docs/z-extensions.md)
 - [FreeRTOS porting](docs/freertos-porting.md)
