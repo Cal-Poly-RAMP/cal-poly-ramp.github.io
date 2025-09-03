@@ -1,8 +1,10 @@
 1. Add assembly documentation part of the toolchain
+2. gate level simulation
 2. rars
 3. spike
 4. pk
 5. verilator document
 6. yosys document
 7. macro document
-8. FreeRTOS document 
+8. openlane config file document 
+9. FreeRTOS document 
