@@ -38,9 +38,11 @@ cat ~/.ssh/id_e25119.pub
 ### Name your key and paste the contents of the .pub file
  
 eval $(ssh-agent -s) 
+
 *you should see "Agent pid #* 
  
 ssh -T git@github.com 
+
 *you should see:* 
 *"Hi &lt;github username&gt;, You've successfully authenticated, but GitHub does not provide shell access."* 
 
