@@ -8,5 +8,5 @@ nav_order: 2
 
 <object data="/assets/pdfs/iverilog-usage-guide.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. 
-    <a href="/assets/pdfs/Asic-Tools iverilog-usage-guide.pdf">Download the PDF</a>.</p>
+    <a href="/assets/pdfs/iverilog-usage-guide.pdf">Download the PDF</a>.</p>
 </object>
