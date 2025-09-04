@@ -1,10 +1,10 @@
 ---
-title: RiscV Resources
+title: RISC-V Resources
 nav_order: 5
 has_children: true
 ---
 
-# RiscV-isa Usage Guides
+# RISCV-ISA Usage Guides
 
 Choose a guide below:
 
