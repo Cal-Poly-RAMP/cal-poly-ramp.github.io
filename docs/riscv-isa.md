@@ -1,13 +1,12 @@
 ---
-title: RISC-V Privileged Architecture Manual
-parent: RISC-V Resources
-nav_order: 1
+title: RiscV Resources
+nav_order: 5
+has_children: true
 ---
 
-# RISC-V Privileged Architecture Manual
+# RiscV-isa Usage Guides
 
-<object data="/assets/pdfs/riscv-privileged.pdf" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support PDFs. 
-    <a href="/assets/pdfs/riscv-privileged.pdf">Download the PDF</a>.</p>
-</object>
+Choose a guide below:
 
+- [RiscV Unprivilaged Manual](riscv-UNPriv.md)
+- [RiscV Privilaged Manual](riscv-Priv.md)
