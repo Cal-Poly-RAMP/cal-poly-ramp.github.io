@@ -8,5 +8,5 @@ has_children: true
 
 Choose a guide below:
 
-- [RiscV Unprivilaged Manual](riscv-UnprivMan.md)
-- [RiscV Privilaged Manual](riscv-PrivMan.md)
+- [RiscV Unprivileged Manual](riscv-unprivileged.md)
+- [RiscV Privileged Manual](riscv-privileged.md)
