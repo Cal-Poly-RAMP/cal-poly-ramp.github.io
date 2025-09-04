@@ -1,10 +1,10 @@
 ---
-title: Risc-V Privileged Architecture Manual
-parent: Risc-V Resources
+title: RiscV Privileged Architecture Manual
+parent: RiscV Resources
 nav_order: 2
 ---
 
-# Risc-V Privileged Architecture Manual
+# RiscV Privileged Architecture Manual
 
 <object data="/assets/pdfs/riscv-privileged.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. 
