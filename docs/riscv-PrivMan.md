@@ -1,7 +1,7 @@
 ---
 title: RISC-V Privileged Architecture Manual
 parent: RISC-V Resources
-nav_order: 1
+nav_order: 2
 ---
 
 # RISC-V Privileged Architecture Manual
