@@ -1,10 +1,10 @@
 ---
-title: RiscV Unprivileged ISA Manual
-parent: RiscV Resources
+title: RISC-V Unprivileged ISA Manual
+parent: RISC-V Resources
 nav_order: 1
 ---
 
-# RiscV Privileged ISA Manual
+# RISC-V Privileged ISA Manual
 
 <object data="/assets/pdfs/riscv-unprivileged.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. 
