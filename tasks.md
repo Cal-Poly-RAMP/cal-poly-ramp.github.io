@@ -6,10 +6,14 @@ search_exclude: true
 
 # Project Tasks:
 
-[Frontend / Core Team](teams/frontend-tasks.md) 
-[Backend / Verification](teams/backend-tasks.md) 
-[Physical Design / Layout Team](teams/layout-tasks.md) 
-[Software / Firmware](teams/os-tasks.md) 
+[Frontend Team](teams/frontend-tasks.md) 
+
+[Backend Team](teams/backend-tasks.md) 
+
+[Layout Team](teams/layout-tasks.md) 
+
+[OS Team](teams/os-tasks.md) 
 
 # Organization Tasks
-[Documentation / Outreach](teams/org-tasks.md) 
+
+[Organization Tasks](teams/org-tasks.md) 
