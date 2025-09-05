@@ -62,9 +62,9 @@ search_exclude: true
     - [ ] Add FreeRTOS port document 
 
     - [ ] Add Spike documentation 
-    
+
     - [ ] Add riscv-gnu-toolchain document
-- 
+
     
 ## RSO
     - [ ] Submit RSO application Sept 18th
