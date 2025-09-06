@@ -6,9 +6,11 @@ nav_order: 4
 
 # Memory Resources Page
 
-Choose a guide below:
-
-- [Instantiating Memory](memory-inst-guide.md)
-
+__Here you will find documents pertaining to memory__:
+ ### Instantiation
+ ### Memory Heirarchy
+ ### Flash Memory
+ ### Bus Interconnects
+ ### Memory Mapped IO (MMIO)
 
 
