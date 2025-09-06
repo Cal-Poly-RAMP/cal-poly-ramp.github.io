@@ -8,12 +8,12 @@ nav_order: 3
 
 ## Planned Events
 - **“Two Clocks, One Truth”**: a deep dive on Async FIFOs (Week 7)  
-- **uArch lecture** hosted by Verilog Meetup’s Yuri Panchel (TBD)  
+- **Verilog Meetups Event** hosted by Verilog Meetup’s Yuri Panchel (TBD)  
 
 ## Weekly Meeting Outline
 
 <details>
-<summary>**Week 1: Kickoff**</summary>
+<summary> <b>Week 1: Kickoff<b></summary>
 
 - What CARP is, how to get involved, expectations  
 
@@ -24,7 +24,7 @@ nav_order: 3
 </details>
 
 <details>
-<summary>**Week 2: RTL and Architecture Fundamentals**</summary>
+<summary><b>Week 2: RTL and Architecture Fundamentals<b></summary>
 
 - HDL clean coding style, module boundaries, parameterization, testbenches  
 
@@ -39,7 +39,7 @@ nav_order: 3
 </details>
 
 <details>
-<summary>**Week 3: ISA and Pipelining Basics**</summary>
+<summary><b>Week 3: ISA and Pipelining Basics<b></summary>
 
 - RV32I refresh  
 
