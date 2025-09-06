@@ -6,7 +6,6 @@ nav_order: 1
 # CARP Project Fall 2025
 
 ## Schedule 
-## Meetings 
 ## Documentation 
 
 - [Asic Toolchain Setup Guide](docs/asic-tools.md)

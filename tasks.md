@@ -1,7 +1,7 @@
 ---
 title: CARP Tasks
-nav_exclude: true
-search_exclude: true
+nav_order: 6
+has_children: true
 ---
 
 # Project Tasks:
