@@ -1,5 +1,5 @@
 ---
-title: Toolchain Quickstart Usage Guides
+title: Resources and Guides
 nav_order: 3
 has_children: true
 ---

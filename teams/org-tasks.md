@@ -46,7 +46,7 @@ search_exclude: true
     
 - [ ] Add Macro toolchain docs 
 
-    - [X] [Sky130 SRAM Options Report (not finished)](sky130_sram_report.pdf) 
+    - [X] [Sky130 SRAM Options Report (not finished)](assets/pdf/sky130_sram_report.pdf) 
 
     - [ ] Openlane PDN and Macro Usage guide 
 

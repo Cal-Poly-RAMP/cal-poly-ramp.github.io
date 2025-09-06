@@ -1,7 +1,7 @@
 ---
-title: Basic Design and Simulation
-parent: Toolchain Quickstart Usage Guides
-nav_order: 1
+title: Basic Design and Simulation Guide
+parent: Resources and Guides
+nav_order: 2
 ---
 
 # Basic Design and Simulation Guide

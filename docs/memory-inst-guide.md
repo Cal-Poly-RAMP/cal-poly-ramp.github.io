@@ -1,7 +1,7 @@
 ---
 title: Memory Instantiation Across Platforms
-parent: Memory Resources
-nav_order: 1
+parent: Resources and Guides
+nav_order: 5
 ---
 
 # Instantiating Memory for HDL vs FPGA vs ASIC

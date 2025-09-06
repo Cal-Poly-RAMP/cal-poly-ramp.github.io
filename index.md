@@ -1,10 +1,13 @@
 ---
-title: Welcome
+title: CARP Contributor Homepage
 nav_order: 1
 ---
 
 # CARP Project Fall 2025
-## Documentation
+
+## Schedule 
+## Meetings 
+## Documentation 
 
 - [Asic Toolchain Setup Guide](docs/asic-tools.md)
 - [Toolchain Quickstart Usage Guides](docs/usage-guides.md)

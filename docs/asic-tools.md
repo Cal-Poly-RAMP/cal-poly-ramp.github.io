@@ -1,6 +1,7 @@
 ---
 title: Asic-Tools Installation
-nav_order: 2
+parent: Resources and Guides
+nav_order: 1
 ---
 
 # __Asic-Tools__ Docker Container

@@ -1,7 +1,7 @@
 ---
 title: RISC-V Resources
-nav_order: 5
-has_children: true
+parent: Resources and Guides
+nav_order: 6
 ---
 
 # RISC-V Resources

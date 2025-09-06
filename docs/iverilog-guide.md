@@ -1,7 +1,7 @@
 ---
 title: iVerilog Usage Guide
-parent: Toolchain Quickstart Usage Guides
-nav_order: 2
+parent: Resources and Guides
+nav_order: 3
 ---
 
 # iVerilog Usage Guide
