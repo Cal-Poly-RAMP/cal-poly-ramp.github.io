@@ -1,5 +1,5 @@
 ---
-title: CARP Core Project Outline
+title: Project Outline
 nav_order: 2
 ---
 
