@@ -1,7 +1,7 @@
 ---
 title: Memory Resources
 parent: Resources and Guides
-nav_order: 4
+nav_order: 3
 ---
 
 # Memory Resources Page
