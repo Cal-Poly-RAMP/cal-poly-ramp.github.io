@@ -1,7 +1,7 @@
 ---
 title: Basic Design and Simulation Guide
-parent: Resources and Guides
-nav_order: 2
+parent: ASIC-Tools Usage Guides
+nav_order: 1
 ---
 
 # Basic Design and Simulation Guide
