@@ -1,5 +1,5 @@
 ---
-title: CARP Meeting and Presentations
+title: Meetings
 nav_order: 4
 has_children: true
 ---
