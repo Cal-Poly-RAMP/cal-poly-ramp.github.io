@@ -16,7 +16,9 @@ nav_order: 3
 <summary>**Week 1: Kickoff**</summary>
 
 - What CARP is, how to get involved, expectations  
+
 - Flagship project overview: RV32IMAC_Zicsr_Zifencei_Zicntr CARP Core  
+
 - Install day: Git, Docker, Spike, riscv-gnu-toolchain  
 
 </details>
@@ -25,9 +27,13 @@ nav_order: 3
 <summary>**Week 2: RTL and Architecture Fundamentals**</summary>
 
 - HDL clean coding style, module boundaries, parameterization, testbenches  
+
 - Documentation styling  
+
 - RISC-V memory map  
+
 - Simple bus (what is a bus)  
+
 - **Lab:** Write and test a parameterized, RISC-V compliant read/write RAM  
 
 </details>
@@ -36,9 +42,13 @@ nav_order: 3
 <summary>**Week 3: ISA and Pipelining Basics**</summary>
 
 - RV32I refresh  
+
 - 5-stage pipeline sketch, control signals, hazards overview  
+
 - Extending to add M, A, C, interrupts, and timer  
+
 - ISA resources and tools  
+
 - **Lab:** Add and simulate a multiply/divide extension on the ALU  
 
 </details>
