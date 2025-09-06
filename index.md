@@ -1,5 +1,5 @@
 ---
-title: CARP Contributor Homepage
+title: Contributor Homepage
 nav_order: 1
 ---
 
