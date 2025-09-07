@@ -3,9 +3,10 @@ title: Contributor Homepage
 nav_order: 1
 ---
 
-# CARP Project Fall 2025
-
-## Schedule 
+# CARP Project Fall 2025 
+### [Project Discord](https://discord.gg/phKEcQqdDS)  
+### [Project Taskboard](https://cal-poly-ramp.github.io/tasks.html)
+### [Schedule](https://cal-poly-ramp.github.io/schedule.html) 
 ## Documentation 
 
 - [Asic Toolchain Setup Guide](docs/asic-tools.md)

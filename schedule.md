@@ -11,19 +11,19 @@ nav_order: 3
 
 ## Weekly Meeting Outline
 
-<details>
-<summary><b>Week 1: Kickoff</b></summary>
+
+<br><b>Week 1: Kickoff (9/20/25)</b>
 
 <ul>
 <li>What CARP is, how to get involved, expectations</li>
-<li>Flagship project overview: RV32IMAC_Zicsr_Zifencei_Zicntr CARP Core</li>
-<li>Install day: Git, Docker, Spike, riscv-gnu-toolchain</li>
+<li>Core Project Overview</li>
+<li><b>Lab</b>: Install tools, run a simulation</li>
 </ul>
 
-</details>
+
 
 <details>
-<summary><b>Week 2: RTL and Architecture Fundamentals</b></summary>
+<summary><b>Week 2: RTL and Architecture Fundamentals (9/27/25)</b></summary>
 
 <ul>
 <li>HDL clean coding style, module boundaries, parameterization, testbenches</li>
@@ -36,7 +36,7 @@ nav_order: 3
 </details>
 
 <details>
-<summary><b>Week 3: ISA and Pipelining Basics</b></summary>
+<summary><b>Week 3: ISA and Pipelining Basics (10/4/25)</b></summary>
 
 <ul>
 <li>RV32I refresh</li>
