@@ -17,5 +17,5 @@ nav_order: 1
 
 ## Meetings
 
-- [Kickoff](meetings/kickoff.md)
-- [RTL and Architecture Fundamentals](meetings/rtl-fundamentals.md)
+- [Kickoff](meetings/meeting-1.md)
+- [RTL and Architecture Fundamentals](meetings/meeting-2.md)

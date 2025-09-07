@@ -6,13 +6,18 @@ nav_order: 4
 
 # RISC-V Resources
 
-[Spike RISC-V Simulator](https://github.com/riscv-software-src/riscv-isa-sim) 
+## ISAs and Extensions:
+### [ISA and Extensions Reference](https://five-embeddev.com/quickref/isa_ext.html) 
 
-[Spike Docs](https://chipyard.readthedocs.io/en/latest/Software/Spike.html) 
+## Spike:
+### [Spike RISC-V Simulator](https://github.com/riscv-software-src/riscv-isa-sim) 
 
+### [Spike Docs](https://chipyard.readthedocs.io/en/latest/Software/Spike.html) 
+
+## FreeRTOS RISC-V Port: 
 [Using FreeRTOS on RISC-V Microcontollers](https://www.freertos.org/Using-FreeRTOS-on-RISC-V) 
 
-[ISA and Extensions Reference](https://five-embeddev.com/quickref/isa_ext.html) 
+
 
 
 

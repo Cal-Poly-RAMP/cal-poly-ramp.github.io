@@ -6,16 +6,16 @@ nav_order: 3
 
 # Memory Resources Page
 
-__Here you will find documents pertaining to memory:__ 
+__Here you will find documents pertaining to memory:__  
 
- ### Instantiation 
+### Instantiation 
 
- ### Memory Heirarchy 
+### Memory Heirarchy 
 
- ### Flash Memory 
+### Flash Memory 
 
- ### Bus Interconnects 
+### Bus Interconnects 
 
- ### Memory Mapped IO (MMIO) 
+### Memory Mapped IO (MMIO) 
  
 
