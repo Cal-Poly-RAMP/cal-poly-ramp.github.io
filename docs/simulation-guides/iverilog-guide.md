@@ -6,7 +6,7 @@ nav_order: 1
 
 # iVerilog Usage Guide
 
-<object data="/assets/pdfs/iverilog-usage-guide.pdf" type="application/pdf" width="100%" height="800px">
+<object data="/assets/pdfs/tools/iverilog-usage-guide.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. 
-    <a href="/assets/pdfs/iverilog-usage-guide.pdf">Download the PDF</a>.</p>
+    <a href="/assets/pdfs/tools/iverilog-usage-guide.pdf">Download the PDF</a>.</p>
 </object>

@@ -6,7 +6,7 @@ nav_order: 2
 
 # RISC-V Privileged Architecture Manual
 
-<object data="/assets/pdfs/riscv-privileged.pdf" type="application/pdf" width="100%" height="800px">
+<object data="/assets/pdfs/manuals/riscv-privileged.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. 
-    <a href="/assets/pdfs/riscv-privileged.pdf">Download the PDF</a>.</p>
+    <a href="/assets/pdfs/manuals/riscv-privileged.pdf">Download the PDF</a>.</p>
 </object>
