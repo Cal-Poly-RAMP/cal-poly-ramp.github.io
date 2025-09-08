@@ -19,3 +19,6 @@ nav_order: 1
 
 - [Kickoff](meetings/meeting-1.md)
 - [RTL and Architecture Fundamentals](meetings/meeting-2.md)
+
+
+# James Mealy
