@@ -21,4 +21,3 @@ nav_order: 1
 - [RTL and Architecture Fundamentals](meetings/meeting-2.md)
 
 
-# James Mealy
