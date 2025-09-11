@@ -1,6 +1,6 @@
 ---
-title: Simulation Guides
-parent: Resources and Guides
+title: Simulator Guides
+parent: ASIC-Tools Usage Guides
 nav_order: 3
 ---
 
