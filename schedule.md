@@ -1,6 +1,6 @@
 ---
 title: Fall Schedule
-nav_order: 3
+nav_order: 4
 ---
 
 # CARP Fall 2025 Schedule
