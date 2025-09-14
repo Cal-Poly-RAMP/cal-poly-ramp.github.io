@@ -4,9 +4,8 @@ parent: Meetings
 nav_order: 1
 ---
 
-## [Pre-Meeting Brief](meeting-1-pre.md)
-## *(please read before coming to the first meeting)*
+## [Pre-Meeting Brief](meeting-1-pre.md) *(please read before coming to the first meeting)*
 
-# Meeting Presentation
+## [Meeting Slides](meeting-1-slides.md)
 
-# Post-Meeting Brief
+# Post-Meeting Brief (TBD)
