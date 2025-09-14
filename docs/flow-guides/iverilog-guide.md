@@ -1,7 +1,7 @@
 ---
 title: iVerilog Usage Guide
-parent: Simulator Guides
-nav_order: 1
+parent: ASIC-Tools Usage Guides
+nav_order: 4
 ---
 
 # iVerilog Usage Guide
