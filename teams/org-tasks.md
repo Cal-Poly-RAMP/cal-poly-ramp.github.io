@@ -10,7 +10,7 @@ search_exclude: true
 
 - [X] Establish Meeting 1 Content [Resolved](carp-meeting-1-brief.md) 
 
-- [ ] Finalize Meeting 1: Kickoff Presentation and Brief 
+- [X] Finalize Meeting 1: Kickoff Presentation and Brief 
 
 - [ ] Advertise through CPES, CS, Transfers, IEEE, 233, 333 discord 
 
@@ -25,7 +25,7 @@ search_exclude: true
 
 - [ ] Update Member Headshots  
 
-- [ ] Add links and update email forwarding  
+- [X] Add links and update email forwarding  
 
 ## Documentation
 - [X] Add Toolchain Install Guide [Resolved]  
@@ -34,15 +34,15 @@ search_exclude: true
 
 - [X] Add basic desing flow document [Resolved](https://cal-poly-ramp.github.io/docs/design-and-sim-guide.html)  
 
-- [ ] Add Simulation toolchain docs  
+- [X] Add Simulation toolchain docs  
 
     - [X] iVerilog Usage Guide  
 
-    - [ ] Verilator Usage Guide  
+    - [X] Verilator Usage Guide  
 
-- [ ] Add Synthesis toolchain docs 
+- [X] Add Synthesis toolchain docs 
 
-    - [ ] Yosys and config file docs 
+    - [X] Yosys and config file docs 
     
 - [ ] Add Macro toolchain docs 
 
@@ -59,11 +59,11 @@ search_exclude: true
 
     - [ ] Add list of new core insturctions 
 
-    - [ ] Add FreeRTOS port document 
+    - [X] Add FreeRTOS port document 
 
-    - [ ] Add Spike documentation 
+    - [X] Add Spike documentation 
 
-    - [ ] Add riscv-gnu-toolchain document
+    - [X] Add riscv-gnu-toolchain document
 
     
 ## RSO

@@ -14,3 +14,40 @@ search_exclude: true
 
 - [ ] Research and create documentation for power distribution networks [PDNs](https://openlane2.readthedocs.io/en/latest/usage/pdn.html) and using them in [Config files](https://openlane2.readthedocs.io/en/latest/reference/configuration.html)  
 
+## Additional Layout Tasks
+
+- [ ] **Floorplanning**
+  - Define die/core dimensions for CARP Core.
+  - Place SRAM macros, IO pads, and clock sources.
+  - Document floorplan strategy (aspect ratio, utilization, keep-outs).  
+
+- [ ] **Placement**
+  - Run initial standard cell placement in OpenROAD.
+  - Analyze congestion and adjust config.  
+
+- [ ] **Clock Tree Synthesis (CTS)**
+  - Build clock tree for 5-stage pipeline core.
+  - Document skew targets and buffering strategy.  
+
+- [ ] **Routing**
+  - Perform global and detailed routing.
+  - Run DRC checks and fix violations.  
+
+- [ ] **Static Timing Analysis (STA)**
+  - Verify timing closure at target frequency.
+  - Explore setup/hold fixes if needed.  
+
+- [ ] **Power & Signal Integrity**
+  - Run IR drop and electromigration (EM) analysis.
+  - Document PDN adjustments.  
+
+- [ ] **Gate-Level Simulation**
+  - Run post-synthesis and post-route GLS with test programs.
+  - Compare results to RTL reference.  
+
+- [ ] **Signoff**
+  - Perform final DRC, LVS, STA, and power analysis.
+  - Export GDSII for tapeout.  
+
+- [ ] **Documentation**
+  - Write a “Layout Handbook” for CARP Core covering flow steps, configs, and lessons learned.
