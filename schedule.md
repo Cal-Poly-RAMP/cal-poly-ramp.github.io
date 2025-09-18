@@ -7,8 +7,8 @@ nav_order: 4
 
 ## Planned Events
 
-- **“Two Clocks, One Truth”**: a deep dive on Async FIFOs (Week 7)
-- **Verilog Meetups Event** hosted by Verilog Meetup’s Yuri Panchel (TBD)
+-  **“Two Clocks, One Truth”**: a deep dive on Async FIFOs (Week 7)
+-  **Verilog Meetups Event** hosted by Verilog Meetup’s Yuri Panchel (TBD)
 
 ## Weekly Meeting Outline
 
