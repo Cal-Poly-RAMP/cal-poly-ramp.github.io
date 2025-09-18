@@ -16,8 +16,8 @@ BGT(U)
 BEQ(U)
 
 - module parameterized
-- comments explaininf s
-- Ensure that the branch target address is computed correctly (refer to Mealy's combined-cheatsheet).
+- comments
+- Ensure that the branch target address is computed correctly (refer to [Mealy's combined-cheatsheet](/assets/pdfs/mealy-stuff/233-cheatsheet.pdf)).
 
 - Refer to the [basic usage guide](https://cal-poly-ramp.github.io/docs/flow-guides/design-and-sim-guide.html) to get familiar with using the asic-tools container
 
