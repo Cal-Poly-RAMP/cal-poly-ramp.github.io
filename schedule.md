@@ -6,11 +6,11 @@ nav_order: 4
 # CARP Fall 2025 Schedule
 
 ## Planned Events
-- **“Two Clocks, One Truth”**: a deep dive on Async FIFOs (Week 7)  
-- **Verilog Meetups Event** hosted by Verilog Meetup’s Yuri Panchel (TBD)  
+
+- **“Two Clocks, One Truth”**: a deep dive on Async FIFOs (Week 7)
+- **Verilog Meetups Event** hosted by Verilog Meetup’s Yuri Panchel (TBD)
 
 ## Weekly Meeting Outline
-
 
 <br><b>Week 1: Kickoff (9/20/25)</b>
 
@@ -19,8 +19,6 @@ nav_order: 4
 <li>Core Project Overview</li>
 <li><b>Lab</b>: Install tools, run a simulation</li>
 </ul>
-
-
 
 <details>
 <summary><b>Week 2: RTL and Architecture Fundamentals (9/27/25)</b></summary>

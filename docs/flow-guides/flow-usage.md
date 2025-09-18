@@ -6,11 +6,11 @@ nav_order: 2
 
 # ASIC-Tools Usage Guides
 
-__includes guides on the following topics:__ 
+**includes guides on the following topics:**
 
 ### Basic Design and Simulation
 
-### Synthesis 
+### Synthesis
 
 ### Gate-Level Testing
 

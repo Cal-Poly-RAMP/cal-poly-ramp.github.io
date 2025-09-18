@@ -8,63 +8,66 @@ search_exclude: true
 
 ## Meetings
 
-- [X] Establish Meeting 1 Content [Resolved](carp-meeting-1-brief.md) 
+-  [x] Establish Meeting 1 Content [Resolved](carp-meeting-1-brief.md)
 
-- [X] Finalize Meeting 1: Kickoff Presentation and Brief 
+-  [x] Finalize Meeting 1: Kickoff Presentation and Brief
 
-- [ ] Advertise through CPES, CS, Transfers, IEEE, 233, 333 discord 
+-  [ ] Advertise through CPES, CS, Transfers, IEEE, 233, 333 discord
 
 ## Website
-- [X] Add About, Board, Projects, Partnerships, and Contact Pages  
 
-- [X] Polish website design, add logos  
+-  [x] Add About, Board, Projects, Partnerships, and Contact Pages
 
-- [X] Update projects with Carp Core and Individual Projects  
+-  [x] Polish website design, add logos
 
-- [X] Add links to github  
+-  [x] Update projects with Carp Core and Individual Projects
 
-- [ ] Update Member Headshots  
+-  [x] Add links to github
 
-- [X] Add links and update email forwarding  
+-  [ ] Update Member Headshots
+
+-  [x] Add links and update email forwarding
 
 ## Documentation
-- [X] Add Toolchain Install Guide [Resolved]  
 
-- [ ] Film Toolchain Install Video Guide  
+-  [x] Add Toolchain Install Guide [Resolved]
 
-- [X] Add basic desing flow document [Resolved](https://cal-poly-ramp.github.io/docs/design-and-sim-guide.html)  
+-  [ ] Film Toolchain Install Video Guide
 
-- [X] Add Simulation toolchain docs  
+-  [x] Add basic desing flow document [Resolved](https://cal-poly-ramp.github.io/docs/design-and-sim-guide.html)
 
-    - [X] iVerilog Usage Guide  
+-  [x] Add Simulation toolchain docs
 
-    - [X] Verilator Usage Guide  
+   -  [x] iVerilog Usage Guide
 
-- [X] Add Synthesis toolchain docs 
+   -  [x] Verilator Usage Guide
 
-    - [X] Yosys and config file docs 
-    
-- [ ] Add Macro toolchain docs 
+-  [x] Add Synthesis toolchain docs
 
-    - [X] [Sky130 SRAM Options Report (not finished)](assets/pdf/sky130_sram_report.pdf) 
+   -  [x] Yosys and config file docs
 
-    - [ ] Openlane PDN and Macro Usage guide 
+-  [ ] Add Macro toolchain docs
 
-    - [ ] Compile macro lists 
+   -  [x] [Sky130 SRAM Options Report (not finished)](assets/pdf/sky130_sram_report.pdf)
 
-- [ ] RISC-V
-    - [X] Add Priveleged Spec 
+   -  [ ] Openlane PDN and Macro Usage guide
 
-    - [X] Add Unpriveleged Spec 
+   -  [ ] Compile macro lists
 
-    - [ ] Add list of new core insturctions 
+-  [ ] RISC-V
 
-    - [X] Add FreeRTOS port document 
+   -  [x] Add Priveleged Spec
 
-    - [X] Add Spike documentation 
+   -  [x] Add Unpriveleged Spec
 
-    - [X] Add riscv-gnu-toolchain document
+   -  [ ] Add list of new core insturctions
 
-    
+   -  [x] Add FreeRTOS port document
+
+   -  [x] Add Spike documentation
+
+   -  [x] Add riscv-gnu-toolchain document
+
 ## RSO
+
     - [ ] Submit RSO application Sept 18th

@@ -7,6 +7,6 @@ nav_order: 3
 # Verilator Usage Guide
 
 <object data="/assets/pdfs/tools/verilator-guide.pdf" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support PDFs. 
+    <p>Your browser does not support PDFs.
     <a href="/assets/pdfs/tools/verilator-guide.pdf">Download the PDF</a>.</p>
 </object>

@@ -1,5 +1,5 @@
 ---
-title: CARP Kickoff 
+title: CARP Kickoff
 parent: Meeting 1
 nav_order: 2
 ---
