@@ -14,10 +14,13 @@ nav_exclude: true
 BLT(U)
 BGT(U)
 BEQ(U)
-  
+
+- module parameterized
+- comments explaininf s
 - Ensure that the branch target address is computed correctly (refer to Mealy's combined-cheatsheet).
 
-- Refer to the [basic usage guide]()
+- Refer to the [basic usage guide](https://cal-poly-ramp.github.io/docs/flow-guides/design-and-sim-guide.html) to get familiar with using the asic-tools container
+
 ---
 
 ## Team B – Branch Resolver Integration
@@ -46,4 +49,9 @@ BEQ(U)
 
 **Responsibilities:**  
 - Develop a SPICE script to enable analog-level simulation and validation of selected subcircuits.  
-- Explore potential analog modules to be integrated into the Extended Experimental Logic (EEL) portion of the design, including feasibility assessment and design proposals.  
+- Ensure the script parses inputs and flattens them for each individual output
+- Consider passing parameters such as 'h or 'b to be able to set the testbench with voltages
+- Parse the runs/recent/final/spice/design.spice to grab the spice instantiation for the model
+- Create an OpenLane ngspice usage guide
+- Explore potential analog design as well as validate which Sky130 library to use for spice
+
