@@ -19,7 +19,7 @@ clean:
   # Remove cached files
   find . -type d -name "__pycache__" -exec rm -r {} +
   find . -type d -name "*.egg-info" -exec rm -r {} +
-
+  rm -rf build
 # Run the docs
 run:
   uv run sphinx-autobuild source build

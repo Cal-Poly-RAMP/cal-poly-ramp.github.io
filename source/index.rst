@@ -1,5 +1,5 @@
 ============================
-CARP: Documentation Home
+CARP HQ
 ============================
 
 .. toctree::
@@ -20,8 +20,10 @@ CARP: Documentation Home
   :hidden:
   :maxdepth: 4
   :caption: Resources and Guides
+  
+  docs/asic-class/asic-class
+  docs/asic-tools-installation/asic-tools
 
-  docs/index
   
 .. toctree::
   :hidden:
