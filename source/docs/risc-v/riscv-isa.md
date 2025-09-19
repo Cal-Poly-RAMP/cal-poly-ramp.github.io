@@ -1,4 +1,4 @@
-# RISC-V Resources
+# RISC-V Software Resources
 
 ## ISAs and Extensions:
 

@@ -1,10 +1,10 @@
 # Taskboard
 
-# Active (Weekly) Tasks
+## Active (Weekly) Tasks
 
 [Weekly Taskboard](teams/active-tasks.md)
 
-# Project Tasks:
+## Project Tasks:
 
 [Frontend Team](teams/frontend-tasks.md)
 
@@ -14,6 +14,6 @@
 
 [OS Team](teams/os-tasks.md)
 
-# Organization Tasks
+## Organization Tasks
 
 [Organization Tasks](teams/org-tasks.md)

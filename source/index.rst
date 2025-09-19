@@ -1,7 +1,13 @@
-============================
-Contributor Homepage
-============================
 
+.. raw:: html
+
+   <div style="text-align: center;">
+
+====================
+Contributor Homepage 
+====================
+
+.. raw:: html
 .. toctree::
   :hidden:
   :maxdepth: 2
@@ -33,31 +39,38 @@ Contributor Homepage
   :maxdepth: 3
   :caption: Fall Schedule
 
-  self
+  schedule
 
 .. toctree::
   :hidden:
   :maxdepth: 3
   :caption: Meetings
 
-  hw/01
-  hw/
+  meetings/meeting-1
 
 .. toctree::
   :hidden:
   :maxdepth: 3
   :caption: Taskboard
 
-  hw/01
-  hw/
-
+  tasks
 
 .. meta::
   :description: kiwiKore Documentation Site
   :keywords: kiwiKore, RISC-V, SystemVerilog
 
-Welcome to the home of Cal Poly Computer Architecture Research Project (CARP), an ongoing group/club dedicated to open source chip design.
 
+.. raw:: html
+
+   <div style="text-align: center;">
+
+Welcome to the CARP contributor homepage.
+
+Here you will find the project outline, documentation, schedule, meeting info, and tasks.
+
+.. raw:: html
+
+   </div>
 Meetings
 ========
 

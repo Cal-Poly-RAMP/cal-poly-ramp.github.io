@@ -1,10 +1,17 @@
 RISC-V References
 =================
+
+  :doc:`riscv-isa` 
+
+  :doc:`riscv-privileged` 
+
+  :doc:`riscv-unprivileged`
+
 .. toctree::
   :hidden:
   :maxdepth: 4
   :caption: RISC-V References
 
   riscv-isa
-  riscv-priveleged
-  riscv-unpriveleged
+  riscv-privileged
+  riscv-unprivileged

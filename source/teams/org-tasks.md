@@ -8,7 +8,7 @@ search_exclude: true
 
 ## Meetings
 
--  [x] Establish Meeting 1 Content [Resolved](carp-meeting-1-brief.md)
+-  [x] Establish Meeting 1 Content [Resolved](../../source/meetings/meeting-1.rst)
 
 -  [x] Finalize Meeting 1: Kickoff Presentation and Brief
 
@@ -34,7 +34,7 @@ search_exclude: true
 
 -  [ ] Film Toolchain Install Video Guide
 
--  [x] Add basic desing flow document [Resolved](https://cal-poly-ramp.github.io/docs/design-and-sim-guide.html)
+-  [x] Add basic desing flow document [Resolved](../docs/flow-guides/design-and-sim-guide.md)
 
 -  [x] Add Simulation toolchain docs
 
@@ -48,7 +48,7 @@ search_exclude: true
 
 -  [ ] Add Macro toolchain docs
 
-   -  [x] [Sky130 SRAM Options Report (not finished)](assets/pdf/sky130_sram_report.pdf)
+   -  [x] [Sky130 SRAM Options Report (not finished)](../_static/pdf/reports/sky130_sram_report.pdf)
 
    -  [ ] Openlane PDN and Macro Usage guide
 
@@ -70,4 +70,4 @@ search_exclude: true
 
 ## RSO
 
-    - [ ] Submit RSO application Sept 18th
+   - [X] Submit RSO application Sept 18th

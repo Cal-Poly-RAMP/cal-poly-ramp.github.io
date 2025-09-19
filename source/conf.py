@@ -40,6 +40,10 @@ extensions = [
     # External stuff
     "myst_parser",
     "sphinxcontrib.mermaid",
+    "sphinx.ext.mathjax",   # enable LaTeX/MathJax
+]
+myst_enable_extensions = [
+    "dollarmath",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -151,7 +155,7 @@ html_context = {
 html_css_files = ["css/custom.css", "css/user.define.css"]
 
 html_favicon = "img/logo.png"
-html_title = "CARP Project"
+html_title = "CARP PROJECT"
 html_baseurl = ""
 
 html_show_sphinx = True

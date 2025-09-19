@@ -1,3 +1,17 @@
 .strike {
   text-decoration: line-through;
 }
+
+/* -----------------------
+   Resize Furo sidebar logo
+   ----------------------- */
+.sidebar-brand img {
+  max-height: 140px !important;  /* adjust size */
+  width: auto !important;
+}
+
+/* Make sure the logo block isn't too padded */
+.sidebar-brand {
+  padding: 0.5rem 1rem !important;
+}
+
