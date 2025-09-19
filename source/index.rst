@@ -1,13 +1,7 @@
-
-.. raw:: html
-
-   <div style="text-align: center;">
-
 ====================
 Contributor Homepage 
 ====================
 
-.. raw:: html
 .. toctree::
   :hidden:
   :maxdepth: 2
@@ -71,6 +65,8 @@ Here you will find the project outline, documentation, schedule, meeting info, a
 .. raw:: html
 
    </div>
+
+========
 Meetings
 ========
 
