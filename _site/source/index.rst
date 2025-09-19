@@ -18,19 +18,20 @@ CARP: Documentation Home
 
 .. toctree::
   :hidden:
-  :maxdepth: 4
+  :maxdepth: 3
   :caption: Resources and Guides
 
-  docs/index
-  
+  resources
+
 .. toctree::
   :hidden:
   :maxdepth: 3
   :caption: Fall Schedule
 
-  self
+  schedule
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Meetings
 
@@ -38,6 +39,7 @@ CARP: Documentation Home
   hw/
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Taskboard
 
@@ -50,6 +52,20 @@ CARP: Documentation Home
   :keywords: kiwiKore, RISC-V, SystemVerilog
 
 Welcome to the home of Cal Poly Computer Architecture Research Project (CARP), an ongoing group/club dedicated to open source chip design.
+
+Documentation
+=============
+
+:doc:`/docs/flow-guides/asic-tools`
+
+:doc:`/docs/flow-guides/flow-usage`
+
+.. :doc:`/docs/flow-guides/carp-core`
+
+:doc:`/docs/risc-v/riscv-isa`
+
+:doc:`/docs/memory/memory-resources`
+
 
 Meetings
 ========

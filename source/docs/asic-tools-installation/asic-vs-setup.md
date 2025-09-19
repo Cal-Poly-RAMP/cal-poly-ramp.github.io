@@ -1,12 +1,6 @@
----
-title: ASIC-Tools VS Setup
-parent: ASIC-Tools Usage Guides
-nav_order: 2
----
+# ASIC VS Setup 
 
-### _Please Have VS Code Installed_
-
-# VS Setup
+## __Please Have VS Code Installed__  
 
 ## Please add the following extensions in VS Code
 

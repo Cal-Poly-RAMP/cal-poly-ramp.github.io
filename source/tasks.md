@@ -1,8 +1,4 @@
----
-title: Taskboard
-nav_order: 6
-has_children: true
----
+# Taskboard
 
 # Active (Weekly) Tasks
 

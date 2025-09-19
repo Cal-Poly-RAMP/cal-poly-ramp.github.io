@@ -1,8 +1,3 @@
----
-title: Project Outline
-nav_order: 2
----
-
 # CARP Core Project Outline
 
 ## 1. Project Overview
