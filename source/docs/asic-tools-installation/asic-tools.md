@@ -1,38 +1,37 @@
-# ASIC Toolchain Setup Guide
+# ASIC Tools Setup 
 
-## Docker
-
-### Description
+### Docker:
 
 A ready-to-use Docker container with open-source ASIC and RISC-V tools, so you don’t have to install each dependency manually. Though many tools come pre-installed, always check versioning and make sure you have what you want. The Docker container comes with the riscv-gnu-toolchain preinstalled.
 
-### Quickstart
+__Quickstart:__
+<br>
+Ensure you have [VSCode](https://code.visualstudio.com/download), Ubuntu/WSL, and the latest version of Docker installed. Enable WSL 2 integration with Docker. 
 
-Ensure you have [VSCode](https://code.visualstudio.com/download), Ubuntu/WSL, and the latest version of Docker installed. Enable WSL 2 integration with Docker.
 
-### Installation Guide
 
 If you need VSCode, Docker, or Ubuntu for WSL, please do the following (in the following order):
 
-### Open command prompt in adminstrator mode
+__Open command prompt in adminstrator mode__
 
-#### Install Ubuntu:
+### Install Ubuntu:
 
 **> wsl --install -d Ubuntu-24.04**
 
-## Open WSL Ubuntu
-
-### Install Standard Programs:
+### Install Common Programs:
 
 **$sudo apt update**
 **$sudo apt full-upgrade-y**
 
-## Install VS-Code and Docker
+### Install VS-Code and Docker:
 
 [Install VS-Code](https://code.visualstudio.com/download)
-[Install Docker](https://docs.docker.com/desktop/setup/install/windows-install/)
+[Install Docker](https://docs.docker.com/desktop/setup/install/windows-install/) 
 
-## Install the Dependencies
+## Installation Guide:
+<br>
+
+### Install the Dependencies
 
 **$ sudo apt update && sudo apt install -y build-essential git curl wget unzip zip tar gdb htop net-tools man-db lsb-release software-properties-common python3 python3-pip python3-venv cmake valgrind openssh-client nodejs npm default-jdk golang tmux neofetch tree nano vim lsof**
 

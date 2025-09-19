@@ -1,5 +1,5 @@
 ============================
-CARP HQ
+Contributor Homepage
 ============================
 
 .. toctree::
@@ -21,10 +21,13 @@ CARP HQ
   :maxdepth: 4
   :caption: Resources and Guides
   
-  docs/asic-class/asic-class
-  docs/asic-tools-installation/asic-tools
-
-  
+  docs/asic-tools-installation/asic-tools 
+  docs/flow-guides/index 
+  docs/asic-class/asic-class 
+  docs/FreeRTOS/index 
+  docs/memory/index 
+  docs/risc-v/index 
+ 
 .. toctree::
   :hidden:
   :maxdepth: 3
@@ -33,6 +36,7 @@ CARP HQ
   self
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Meetings
 
@@ -40,6 +44,7 @@ CARP HQ
   hw/
 
 .. toctree::
+  :hidden:
   :maxdepth: 3
   :caption: Taskboard
 

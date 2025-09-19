@@ -1,9 +1,3 @@
----
-title: RISC-V Resources
-parent: Resources and Guides
-nav_order: 5
----
-
 # RISC-V Resources
 
 ## ISAs and Extensions:

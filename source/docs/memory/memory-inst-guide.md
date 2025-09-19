@@ -1,12 +1,5 @@
----
-title: Memory Instantiation Across Platforms
-parent: Memory Resources
-nav_order: 1
----
+# Memory Design Targets
 
-# Instantiating Memory for HDL vs FPGA vs ASIC
-
-<object data="/assets/pdfs/tools/Instantiating Memory with HDL vs FPGA vs ASIC .pdf" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support PDFs.
-    <a href="/assets/pdfs/tools/Instantiating Memory with HDL vs FPGA vs ASIC .pdf">Download the PDF</a>.</p>
-</object>
+```{raw} html
+  <iframe src="../../_static/pdf/tools/Instantiating Memory with HDL vs FPGA vs ASIC .pdf" width="100%" height="600px"></iframe>
+  ```
