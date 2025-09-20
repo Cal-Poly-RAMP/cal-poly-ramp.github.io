@@ -18,5 +18,3 @@ ASIC Tools Usage Guides
   iverilog-guide
   verilator-guide
   yosys-usage
-
-
