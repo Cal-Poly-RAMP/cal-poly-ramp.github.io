@@ -3,7 +3,7 @@ Multiplier & Divider Guide
 =========================
 
 .. note::
-   This guide helps you choose a multiplier or divider style for your Sky130 design.  
+   This guide helps you choose a multiplier or divider style for your Sky130 design.
    Each option has different trade-offs in **speed, area, and implementation complexity**.
 
 Multipliers
@@ -97,9 +97,9 @@ Choosing the Right Style
 .. admonition:: Guidelines
    :class: tip
 
-   - For **small area** (tiny cores, low-power): use *serial multiplier* or *iterative divider*.  
-   - For **balanced area/speed**: use *Booth multiplier* and *non-restoring divider*.  
-   - For **maximum speed (DSP/CPU)**: use *Wallace tree / pipelined Booth multiplier* and *Newton–Raphson divider*.  
+   - For **small area** (tiny cores, low-power): use *serial multiplier* or *iterative divider*.
+   - For **balanced area/speed**: use *Booth multiplier* and *non-restoring divider*.
+   - For **maximum speed (DSP/CPU)**: use *Wallace tree / pipelined Booth multiplier* and *Newton–Raphson divider*.
    - Always check whether you really need signed division — it’s much costlier.
 
 ---
