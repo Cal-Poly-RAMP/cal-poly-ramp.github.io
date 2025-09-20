@@ -1,6 +1,12 @@
+
+.. raw:: html
+
+   <div style="text-align: center;">
 ====================
-Contributor Homepage
+CARP Contributor Homepage
 ====================
+.. raw:: html
+   </div>
 
 .. toctree::
   :hidden:
@@ -66,10 +72,33 @@ Here you will find the project outline, documentation, schedule, meeting info, a
 
    </div>
 
-========
-Meetings
-========
 
+.. raw:: html
+
+   <div style="text-align: left;">
+
+Project Outline
+~~~~~~~~~~~~~~~
+:doc:`proj-info`
+
+ASIC-Tools Installation Guide
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:doc:`docs/asic-tools-installation/asic-tools`
+
+Meetings
+~~~~~~~~
 :doc:`/meetings/meeting-1`
 
-:doc:`/meetings/meeting-2`
+Schedule
+~~~~~~~~
+:doc:`schedule`
+
+.. important:: The first meeting will be 9/20/2025 @ 11:30 AM in Bldg. 20, Room 100
+
+Taskboard
+~~~~~~~~~
+:doc:`tasks`
+
+.. note:: Please search your name in the upper left search bar to see tasks assigned to you.
+
+.. raw:: html

@@ -1,4 +1,4 @@
-# Project Outline
+# CARP Core Project
 
 ## 1. Project Overview
 
