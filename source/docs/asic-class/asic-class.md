@@ -101,7 +101,7 @@
 ### [Lecture 17 - Async FIFO and Design Constraints (SDCs, XDC, etc.)](../..source/_st/pdf/meeting-slides/carp-kickoff.pdf)
 
 ```{raw} html
-<iframe src="../../_static/pdf/asic-class-slides/Lecture 17 - Async FIFO and Design Constraints (SDCs, XDC, etc.).pdf" width="100%" height="600px"></iframe>
+<iframe src="../../_static/pdf/asic-class-slides/Lecture 17 - Async Fifo, SDCs.pdf" width="100%" height="600px"></iframe>
 ```
 
 ### [Lecture 18 - CocoTB](../..source/_st/pdf/meeting-slides/carp-kickoff.pdf)

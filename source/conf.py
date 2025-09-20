@@ -155,7 +155,7 @@ html_context = {
 html_css_files = ["css/custom.css", "css/user.define.css"]
 
 html_favicon = "img/logo.png"
-html_title = "CARP PROJECT"
+html_title = "CARP Project"
 html_baseurl = ""
 
 html_show_sphinx = True
