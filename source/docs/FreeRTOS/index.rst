@@ -1,6 +1,6 @@
 FreeRTOS References
 ===================
- 
+
   :doc:`free-rtos-setup`
 
 .. toctree::

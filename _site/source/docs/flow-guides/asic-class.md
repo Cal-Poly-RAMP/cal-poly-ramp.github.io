@@ -22,14 +22,10 @@
 -  [**Lecture 20 - Formal Verification**](<../_static/pdf/asic-class-slides/Lecture 20 - Formal Verification.pdf>)
 -  [**Lecture 21 - CARP Core**](<../_static/pdf/asic-class-slides/Lecture 21 - CARP Core.pdf>)
 -  [**Lecture 22 - Open Source Intellectual Property (IP)**](<../_static/pdf/asic-class-slides/Lecture 22 - Open Source IP.pdf>)
--  [**Lecture 23 - Design for Test**](<../_static/pdf/asic-class-slides/Lecture 23 - Design For Test.pdf>) 
+-  [**Lecture 23 - Design for Test**](<../_static/pdf/asic-class-slides/Lecture 23 - Design For Test.pdf>)
 
-
-
-<!-- 
+<!--
 - View the [CARP Kickoff Slides (PDF)](../_static/pdf/meeting-slides/carp-kickoff.pdf)
   ```{raw} html
   <iframe src="../_static/pdf/meeting-slides/carp-kickoff.pdf" width="100%" height="600px"></iframe>
   ``` -->
-
-

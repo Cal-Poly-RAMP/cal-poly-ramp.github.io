@@ -6,7 +6,7 @@
    Resize Furo sidebar logo
    ----------------------- */
 .sidebar-brand img {
-  max-height: 140px !important;  /* adjust size */
+  max-height: 140px !important; /* adjust size */
   width: auto !important;
 }
 
@@ -14,4 +14,3 @@
 .sidebar-brand {
   padding: 0.5rem 1rem !important;
 }
-

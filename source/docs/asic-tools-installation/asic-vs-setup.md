@@ -1,6 +1,6 @@
-# ASIC VS Setup 
+# ASIC VS Setup
 
-## __Please Have VS Code Installed__  
+## **Please Have VS Code Installed**
 
 ## Please add the following extensions in VS Code
 

@@ -70,4 +70,4 @@ search_exclude: true
 
 ## RSO
 
-   - [X] Submit RSO application Sept 18th
+-  [x] Submit RSO application Sept 18th

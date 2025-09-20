@@ -1,9 +1,9 @@
 RISC-V References
 =================
 
-  :doc:`riscv-isa` 
+  :doc:`riscv-isa`
 
-  :doc:`riscv-privileged` 
+  :doc:`riscv-privileged`
 
   :doc:`riscv-unprivileged`
 

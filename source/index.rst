@@ -1,5 +1,5 @@
 ====================
-Contributor Homepage 
+Contributor Homepage
 ====================
 
 .. toctree::
@@ -20,14 +20,14 @@ Contributor Homepage
   :hidden:
   :maxdepth: 4
   :caption: Resources and Guides
-  
-  docs/asic-tools-installation/asic-tools 
-  docs/flow-guides/index 
-  docs/asic-class/asic-class 
-  docs/FreeRTOS/index 
-  docs/memory/index 
-  docs/risc-v/index 
- 
+
+  docs/asic-tools-installation/asic-tools
+  docs/flow-guides/index
+  docs/asic-class/asic-class
+  docs/FreeRTOS/index
+  docs/memory/index
+  docs/risc-v/index
+
 .. toctree::
   :hidden:
   :maxdepth: 3

@@ -1,18 +1,16 @@
-# ASIC Tools Setup 
+# ASIC Tools Setup
 
 ### Docker:
 
 A ready-to-use Docker container with open-source ASIC and RISC-V tools, so you don’t have to install each dependency manually. Though many tools come pre-installed, always check versioning and make sure you have what you want. The Docker container comes with the riscv-gnu-toolchain preinstalled.
 
-__Quickstart:__
+**Quickstart:**
 <br>
-Ensure you have [VSCode](https://code.visualstudio.com/download), Ubuntu/WSL, and the latest version of Docker installed. Enable WSL 2 integration with Docker. 
-
-
+Ensure you have [VSCode](https://code.visualstudio.com/download), Ubuntu/WSL, and the latest version of Docker installed. Enable WSL 2 integration with Docker.
 
 If you need VSCode, Docker, or Ubuntu for WSL, please do the following (in the following order):
 
-__Open command prompt in adminstrator mode__
+**Open command prompt in adminstrator mode**
 
 ### Install Ubuntu:
 
@@ -26,9 +24,10 @@ __Open command prompt in adminstrator mode__
 ### Install VS-Code and Docker:
 
 [Install VS-Code](https://code.visualstudio.com/download)
-[Install Docker](https://docs.docker.com/desktop/setup/install/windows-install/) 
+[Install Docker](https://docs.docker.com/desktop/setup/install/windows-install/)
 
 ## Installation Guide:
+
 <br>
 
 ### Install the Dependencies

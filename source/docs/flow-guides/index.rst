@@ -1,13 +1,13 @@
 ASIC Tools Usage Guides
 =======================
 
-  :doc:`design-and-sim-guide` 
+  :doc:`design-and-sim-guide`
 
-  :doc:`iverilog-guide` 
+  :doc:`iverilog-guide`
 
-  :doc:`verilator-guide` 
+  :doc:`verilator-guide`
 
-  :doc:`yosys-usage` 
+  :doc:`yosys-usage`
 
 .. toctree::
   :hidden:
@@ -18,5 +18,5 @@ ASIC Tools Usage Guides
   iverilog-guide
   verilator-guide
   yosys-usage
-  
-  
+
+

@@ -40,7 +40,7 @@ extensions = [
     # External stuff
     "myst_parser",
     "sphinxcontrib.mermaid",
-    "sphinx.ext.mathjax",   # enable LaTeX/MathJax
+    "sphinx.ext.mathjax",  # enable LaTeX/MathJax
 ]
 myst_enable_extensions = [
     "dollarmath",
