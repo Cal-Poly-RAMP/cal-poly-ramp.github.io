@@ -56,15 +56,15 @@ CARP Contributor Homepage
   tasks
 
 .. meta::
-  :description: kiwiKore Documentation Site
-  :keywords: kiwiKore, RISC-V, SystemVerilog
+  :description: CARP Documentation Site
+  :keywords: CARP, RISC-V, SystemVerilog
 
 
 .. raw:: html
 
    <div style="text-align: center;">
 
-Welcome to the CARP contributor homepage.
+Welcome to the Cal Poly Computer Architecture Research Project (CARP) contributor homepage.
 
 Here you will find the project outline, documentation, schedule, meeting info, and tasks.
 

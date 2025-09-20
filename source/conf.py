@@ -19,7 +19,7 @@ sys.path.append(os.path.abspath("_ext"))
 
 # -- Project information -----------------------------------------------------
 
-project = "kiwiKore"
+project = "CARP"
 copyright = f"{datetime.now().year}, CARP"
 author = "CARP Team"
 

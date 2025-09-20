@@ -686,7 +686,7 @@ wheels = [
 ]
 
 [[package]]
-name = "kiwikoredocs"
+name = "carpdocs"
 version = "0.0.1"
 source = { virtual = "." }
 dependencies = [

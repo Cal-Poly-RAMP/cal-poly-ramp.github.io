@@ -3,9 +3,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "kiwiKoreDocs"
+name = "carpDocs"
 version = "0.0.1"
-description = "Documentation for kiwiKore"
+description = "Documentation for carp"
 authors = [
   { name = "Miguel Villa Floran", email = "miguel.villafloran@gmail.com" },
 ]
