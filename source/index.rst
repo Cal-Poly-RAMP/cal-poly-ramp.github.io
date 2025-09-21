@@ -77,6 +77,21 @@ Here you will find the project outline, documentation, schedule, meeting info, a
 
    <div style="text-align: left;">
 
+.. image:: img/carp-first-meeting-picture.jpg
+   :alt: CARP First Meeting Picture
+   :width: 400px
+   :align: center
+
+.. raw:: html
+
+   <div style="text-align: center;">
+
+  CARP First Meeting - 9/20/2025
+
+.. raw:: html
+
+   </div>
+
 Project Outline
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
