@@ -28,6 +28,7 @@ CARP Contributor Homepage
   :caption: Resources and Guides
 
   docs/asic-tools-installation/asic-tools
+  docs/asic-tools-installation/visual-setup
   docs/flow-guides/index
   docs/asic-class/asic-class
   docs/FreeRTOS/index

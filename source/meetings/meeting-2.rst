@@ -21,25 +21,29 @@ Agenda
 Lab
 -----
 
-.. admonition:: If you're new here
+.. important:: If you're new here
    :class: tip
 
-   Make sure your **ASIC-Tools** are installed and working. If not, see the
-   :doc:`Kickoff Meeting Page <meeting-1>` for setup instructions.
+   Make sure your **ASIC-Tools** are installed and working. If not, see the `setup guide <setup-docs_>`_
 
 .. admonition:: If you have the tools installed
    :class: tip
 
    Work on the **Multiplier/Divider Tradeoff Activity**:
+
    - Implement a **sequential multiplier/divider**.
+
    - Implement a **combinational multiplier/divider**.
+
    - Compare **timing vs. area** results in the OpenLane flow.
 
 .. admonition:: Looking ahead
    :class: tip
 
    Begin preparing to analyze **Branch Prediction** tradeoffs:
+
    - Explore different prediction strategies (static, dynamic).
+
    - Consider how prediction logic affects **critical path** and **area**.
 
 Resources
@@ -54,3 +58,5 @@ Resources
     - :doc:`Branch Prediction Activity <branch-activity>`
 ..
     :doc:`Meeting Slides <meeting-2-slides>`
+
+.. _setup-docs: https://cal-poly-ramp.github.io/docs/asic-tools-installation/asic-tools.html
