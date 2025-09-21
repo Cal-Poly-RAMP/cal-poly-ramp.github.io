@@ -15,6 +15,7 @@ ASIC Tools Usage Guides
   :caption: Asic Tools Usage Guides
 
   design-and-sim-guide
+  makefile-guide
   iverilog-guide
   verilator-guide
   yosys-usage
