@@ -4,8 +4,6 @@ ASIC VS Setup
 .. note::
    **Please have VS Code installed before proceeding.**
 
-Required Extensions
-===================
 
 Verilog/SystemVerilog Syntax Highlighting
 -----------------------------------------
@@ -14,7 +12,7 @@ Verilog/SystemVerilog Syntax Highlighting
 - Enforces syntax
 - Autocompletes block headers
 
-VaporView Wave Viewer
+VaporView Wave Viewer (optional, needs to be disabled when not in use)
 ---------------------
 `VaporView Wave Viewer <https://marketplace.visualstudio.com/items?itemName=lramseyer.vaporview>`_
 
