@@ -106,11 +106,15 @@ Meetings
 ~~~~~~~~
 :doc:`/meetings/meeting-1`
 
-Schedule
-~~~~~~~~
-:doc:`schedule`
+:doc:`meetings/meeting-2`
+
 
 .. important:: The first meeting will be 9/20/2025 @ 11:30 AM in Bldg. 20, Room 100
+
+.. raw:: html
+
+   <h1>Schedule</h1>
+   <iframe src="https://calendar.google.com/calendar/embed?src=49700e0209179c4d565157ceba4f7f0be256dff9aa0c7615eb68c1cbf6eb2269%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 Taskboard
 ~~~~~~~~~

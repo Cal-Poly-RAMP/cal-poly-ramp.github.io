@@ -40,3 +40,5 @@
 </ul>
 
 </details>
+
+<iframe src="https://calendar.google.com/calendar/embed?src=49700e0209179c4d565157ceba4f7f0be256dff9aa0c7615eb68c1cbf6eb2269%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

@@ -12,7 +12,7 @@ Verilog/SystemVerilog Syntax Highlighting
 - Enforces syntax
 - Autocompletes block headers
 
-VaporView Wave Viewer (optional, needs to be disabled when not in use)
+VaporView Wave Viewer (optional)
 ---------------------
 `VaporView Wave Viewer <https://marketplace.visualstudio.com/items?itemName=lramseyer.vaporview>`_
 
