@@ -135,4 +135,4 @@ You should now see:
 VSCode Setup (Highly Recommended)
 ---------------------------------
 
-See the `ASIC-Tools VSCode Extensions Guide <asic-vs-setup.md>`_ for further setup.
+See the `ASIC-Tools VSCode Extensions Guide <asic-tools-vs>`_ for further setup.
