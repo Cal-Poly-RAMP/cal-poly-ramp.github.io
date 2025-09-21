@@ -42,6 +42,3 @@ Resources
 
 :doc:`Meeting Slides <kickoff-slides>`
 ===========================
-
-Post-Meeting Brief (TBD)
-=========================

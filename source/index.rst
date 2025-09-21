@@ -47,6 +47,7 @@ CARP Contributor Homepage
   :caption: Meetings
 
   meetings/meeting-1
+  meetings/meeting-2
 
 .. toctree::
   :hidden:
