@@ -7,7 +7,7 @@ RISC-V Fundamentals
    before attending.
 
 Agenda
-======
+------
 
 .. contents::
    :local:
@@ -19,7 +19,7 @@ Agenda
 - **Next Steps in CARP Core Project**
 
 Lab
-===
+-----
 
 .. admonition:: If you're new here
    :class: tip
@@ -43,7 +43,7 @@ Lab
    - Consider how prediction logic affects **critical path** and **area**.
 
 Resources
-=========
+----------
 
 - `Sky130 PDK Libraries and Tools Overview <https://skywater-pdk.readthedocs.io/en/main/contents/libraries/foundry-provided.html>`_
 

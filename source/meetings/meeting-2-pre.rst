@@ -4,8 +4,8 @@ Meeting 2 Pre-Brief
 Focus
 =====
 
-This meeting builds on the **Kickoff**. We will start making **design tradeoffs** 
-and seeing how they play out in a real flow.  
+This meeting builds on the **Kickoff**. We will start making **design tradeoffs**
+and seeing how they play out in a real flow.
 
 The two big areas we’ll focus on are:
 
@@ -32,14 +32,14 @@ Preparation
 - Verify you can run a simple `make lint` and `make sim` on some generic test RTL.
 - Review the difference between:
 
-  - **Sequential logic** (uses flip-flops, trades time for reduced area). 
+  - **Sequential logic** (uses flip-flops, trades time for reduced area).
 
   - **Combinational logic** (faster but larger area).
 
 Reading
 =======
 
-- Look into **OpenLane timing and area reports**: understanding these now will 
+- Look into **OpenLane timing and area reports**: understanding these now will
   make our lab much more valuable.
 
 Lab Preview
@@ -50,8 +50,7 @@ In the lab we will:
 - Synthesize **two styles of multiplier/divider** and compare:
 
   - **Sequential version**
-  
+
   - **Combinational version**
 - Begin setting up a **branch prediction block** for future simulation and analysis.
 - Record **timing (slack/critical path)** and **area (cell usage)**.
-
