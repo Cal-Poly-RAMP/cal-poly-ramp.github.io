@@ -4,6 +4,12 @@
 
 [Weekly Taskboard](teams/active-tasks.md)
 
+### Multiplier/Divider (MULDIV)
+
+### Branch Predictor (BR_PRED)
+
+### Target Generator (TARG_GEN)
+
 ## Project Tasks:
 
 [Frontend Team](teams/frontend-tasks.md)
