@@ -94,6 +94,10 @@ Here you will find the project outline, documentation, schedule, meeting info, a
 
    </div>
 
+Discord
+~~~~~~~
+`CARP Discord Server <https://discord.gg/hg3czYUJB2>`_
+
 Project Outline
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
@@ -109,7 +113,7 @@ Meetings
 :doc:`meetings/meeting-2`
 
 
-.. important:: The first meeting will be 9/20/2025 @ 11:30 AM in Bldg. 20, Room 100
+.. important:: The 2nd meeting will be 9/24/2025 @ 6:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
