@@ -33,8 +33,8 @@
 ```
 
 ```{raw} html
-<h3><a href="../../_static/pdf/asic-class-slides/Lecture 7 - ASIC SoC Design.pdf">Lecture 7 - ASIC SoC Design</a></h3>
-<iframe src="../../_static/pdf/asic-class-slides/Lecture 7 - ASIC SoC Design.pdf" width="100%" height="600px"></iframe>
+<h3><a href="../../_static/pdf/asic-class-slides/Lecture 7 - ASIC SoC Design.pdf">Lecture 7 -  ASIC SoC Design</a></h3>
+<iframe src="../../_static/pdf/asic-class-slides/Lecture 7 -  ASIC SoC Design.pdf" width="100%" height="600px"></iframe>
 ```
 
 ```{raw} html
