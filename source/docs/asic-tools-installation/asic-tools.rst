@@ -17,6 +17,12 @@ Ensure you have `VSCode <https://code.visualstudio.com/download>`_, Ubuntu/WSL, 
 
 If you need VSCode, Docker, or Ubuntu for WSL, please do the following (in the following order):
 
+Install VS Code and Docker
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Install VS Code <https://code.visualstudio.com/download>`_
+- `Install Docker <https://docs.docker.com/desktop/setup/install/windows-install/>`_
+
 .. note::
 
    Open Command Prompt in **Administrator Mode** before running the commands.
@@ -36,11 +42,6 @@ Install Common Programs
    sudo apt update
    sudo apt full-upgrade -y
 
-Install VS Code and Docker
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- `Install VS Code <https://code.visualstudio.com/download>`_
-- `Install Docker <https://docs.docker.com/desktop/setup/install/windows-install/>`_
 
 Installation Guide
 ------------------
@@ -122,12 +123,29 @@ Clone and Run ASIC Tools
 
 .. code-block:: console
 
-   git clone git@github.com:ryancramuh/asic-tools.git
-   sudo ./asic-tools/install.sh
-   ./asic-tools/run.sh
+   git clone git@github.com:cal-poly-ramp/carp-tools.git
+   ./carp-tools/install.sh
+   ./carp-tools/run.sh
 
 You should now see:
 
 .. code-block::
 
    "ubuntu@asic$"
+
+.. note::
+   Add an alias to easily get into the docker container with one word
+
+.. code-block::
+
+   # go to Ubuntu home
+   cd
+
+   # edit your .bashrc
+   vim .bashrc
+   # add cd at the bottom so you always enter into Ubuntu home and not /mnt/Users/<you>
+   # add " alias runcarp='cd && cd carp-tools/ && ./run.sh' at the bottom so you can just type "runcarp" "
+   # save your .bashrc
+
+   bash exec
+   # reloads your terminal so you dont have to close it

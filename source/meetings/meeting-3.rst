@@ -1,10 +1,9 @@
-STA and RISC-V M Extension
+Implement the M Extension
 =========
 
 .. note::
-   **Welcome to the second CARP meeting!**
-   Please make sure to read the :doc:`Pre-Meeting Brief <meeting-2-pre>`
-   before attending.
+   **Welcome to the third CARP meeting!**
+   Please make sure to look over two prior meetings and their slides
 
 Agenda
 ------
@@ -13,13 +12,13 @@ Agenda
    :local:
    :depth: 1
 
-- **Tool Explanation**
-- **Static Timing Analyis Overview**
+- **Implement MULDIV**
+- **Static Timing Analyis of MULDIV**
 - **Multiplier/Divider Design**
-- **Next Steps in CARP Core Project**
+- **If time: Branches and Jumps**
 
-:doc:`Meeting Slides <meeting-2-slides>`
----------------------------
+.. :doc:`Meeting Slides <meeting-3-slides>`
+.. ---------------------------
 
 Lab
 -----
@@ -49,6 +48,6 @@ Resources
 
 - :doc:`Multiplier/Divider Activity <muldiv-activity>`
 
-- :doc:`Meeting Slides <meeting-2-slides>`
+.. - :doc:`Meeting Slides <meeting-3-slides>`
 
 .. _setup-docs: https://cal-poly-ramp.github.io/docs/asic-tools-installation/asic-tools.html

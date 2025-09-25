@@ -49,6 +49,7 @@ CARP Contributor Homepage
 
   meetings/meeting-1
   meetings/meeting-2
+  meetings/meeting-3
 
 .. toctree::
   :hidden:
@@ -75,24 +76,29 @@ Here you will find the project outline, documentation, schedule, meeting info, a
    </div>
 
 
-.. raw:: html
-
-   <div style="text-align: left;">
-
-.. image:: img/carp-first-meeting-picture.jpg
+.. |carp1| image:: img/carp-first-meeting-picture.jpg
    :alt: CARP First Meeting Picture
    :width: 400px
-   :align: center
+
+.. |carp2| image:: img/carp-second-meeting-picture.jpg
+   :alt: CARP Second Meeting Picture
+   :width: 400px
+
+|carp1| |carp2|
 
 .. raw:: html
 
    <div style="text-align: center;">
 
-  CARP First Meeting - 9/20/2025
+  CARP First Meeting - 9/20/2025 and Second Meeting 9/24/2025
 
 .. raw:: html
 
    </div>
+
+.. raw:: html
+
+   <div style="text-align: left;">
 
 Discord
 ~~~~~~~
@@ -112,8 +118,10 @@ Meetings
 
 :doc:`meetings/meeting-2`
 
+:doc:`meetings/meeting-3`
 
-.. important:: The 2nd meeting will be 9/24/2025 @ 6:00 PM in Bldg. 20, Room 100
+
+.. important:: The 3rd meeting will be 9/27/2025 @ 6:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
