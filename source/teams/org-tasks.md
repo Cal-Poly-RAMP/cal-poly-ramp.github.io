@@ -8,8 +8,8 @@ search_exclude: true
 
 ## Meetings
 
-- [ ] Meeting 3 Slides and Page
-- [ ] 2 Clocks 1 Truth 
+-  [ ] Meeting 3 Slides and Page
+-  [ ] 2 Clocks 1 Truth
 
 ## Website
 
@@ -18,7 +18,6 @@ search_exclude: true
 -  [x] Add links and update email forwarding
 
 ## Documentation
-
 
 -  [ ] Add Macro toolchain docs
 
