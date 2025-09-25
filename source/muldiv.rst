@@ -2,10 +2,10 @@ MULDIV UNIT
 ===========
 
 Instruction OP Codes
-====================
+--------------------
 
 Write a decoder section for these multiply and divide instructions
------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you remember how they work check out the slides on the website from today—it has a section.
 
@@ -14,7 +14,7 @@ The RISC-V spec says that when it comes to sign it only cares what your instruct
 The sign only matters when the highest bit is set **and** you chose to use an instruction that interprets the number as signed.
 
 Examples
---------
+~~~~~~~~
 
 To use **MUL**, it's signed × signed, so:
 
@@ -48,6 +48,8 @@ MULHU treats operands as **unsigned**:
 
 The result would be ``0x0000_0001_FFFF_FFF4``.
 MULHU returns the **upper 32 bits** → ``0x0000_0001``.
+
+----
 
 Sign Handling
 -------------
