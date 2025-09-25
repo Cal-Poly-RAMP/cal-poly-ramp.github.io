@@ -121,7 +121,7 @@ Meetings
 :doc:`meetings/meeting-3`
 
 
-.. important:: The 3rd meeting will be 9/27/2025 @ 6:00 PM in Bldg. 20, Room 100
+.. important:: The 3rd meeting will be 9/27/2025 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
