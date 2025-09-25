@@ -8,8 +8,6 @@
 
 ### Branch Predictor (BR_PRED)
 
-### Target Generator (TARG_GEN)
-
 ## Project Tasks:
 
 [Frontend Team](teams/frontend-tasks.md)

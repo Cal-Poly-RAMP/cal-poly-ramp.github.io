@@ -21,6 +21,7 @@ CARP Contributor Homepage
   :caption: Project Outline
 
   proj-info
+  muldiv
 
 .. toctree::
   :hidden:
@@ -104,9 +105,10 @@ Discord
 ~~~~~~~
 `CARP Discord Server <https://discord.gg/hg3czYUJB2>`_
 
-Project Outline
+Project Outline and Design
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
+:doc:`muldiv`
 
 ASIC-Tools Installation Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
