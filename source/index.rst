@@ -21,6 +21,7 @@ CARP Contributor Homepage
   :caption: Project Outline
 
   proj-info
+  docs/risc-v/carp-opcodes
   muldiv
 
 .. toctree::

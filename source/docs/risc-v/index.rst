@@ -12,6 +12,7 @@ RISC-V References
   :maxdepth: 4
   :caption: RISC-V References
 
+  carp-opcodes
   riscv-isa
   riscv-privileged
   riscv-unprivileged

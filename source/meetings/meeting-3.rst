@@ -17,8 +17,8 @@ Agenda
 - **Multiplier/Divider Design**
 - **If time: Branches and Jumps**
 
-.. :doc:`Meeting Slides <meeting-3-slides>`
-.. ---------------------------
+:doc:`Meeting 3 Slides <meeting-3-slides>`
+--------------------------------------
 
 Lab
 -----
