@@ -2,7 +2,7 @@
 
 ## Active (Weekly) Tasks
 
-[Weekly Taskboard](teams/active-tasks.md)
+[Weekly Taskboard](teams/active-tasks.rst)
 
 ### Multiplier/Divider (MULDIV)
 
