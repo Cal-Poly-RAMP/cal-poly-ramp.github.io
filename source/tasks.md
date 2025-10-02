@@ -10,13 +10,13 @@
 
 ## Project Tasks:
 
-[Frontend Team](teams/frontend-tasks.md)
+[Frontend Team](teams/frontend-tasks.rst)
 
-[Backend Team](teams/backend-tasks.md)
+[Backend Team](teams/backend-tasks.rst)
 
-[Layout Team](teams/layout-tasks.md)
+[Layout Team](teams/layout-tasks.rst)
 
-[OS Team](teams/os-tasks.md)
+[OS Team](teams/os-tasks.rst)
 
 ## Organization Tasks
 
