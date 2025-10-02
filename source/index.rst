@@ -35,6 +35,7 @@ CARP Contributor Homepage
   :maxdepth: 4
   :caption: Resources and Guides
 
+  docs/video-guides/video-guides
   docs/asic-tools-installation/asic-tools
   docs/asic-tools-installation/visual-setup
   docs/flow-guides/index
@@ -87,13 +88,22 @@ Here you will find the project outline, documentation, schedule, meeting info, a
    :alt: CARP Second Meeting Picture
    :width: 400px
 
+..  |carp3| image:: img/carp-third-meeting-picture.jpg
+   :alt: CARP Third Meeting Picture
+   :width: 400px
+
+.. |carp4| image:: img/carp-fourth-meeting-picture.jpg
+   :alt: CARP Fourth Meeting Picture
+   :width: 400px
+
 |carp1| |carp2|
+|carp3| |carp4|
 
 .. raw:: html
 
    <div style="text-align: center;">
 
-  CARP First Meeting - 9/20/2025 and Second Meeting 9/24/2025
+  CARP Meeting 1 - 4
 
 .. raw:: html
 
@@ -110,7 +120,6 @@ Discord
 Project Outline and Design
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
-:doc:`muldiv`
 
 ASIC-Tools Installation Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -127,7 +136,7 @@ Meetings
 :doc:`meetings/meeting-4`
 
 
-.. important:: The 3rd meeting will be 9/27/2025 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The 5th meeting will be 10/4/2025 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
@@ -137,7 +146,5 @@ Meetings
 Taskboard
 ~~~~~~~~~
 :doc:`tasks`
-
-.. note:: Please search your name in the upper left search bar to see tasks assigned to you.
 
 .. raw:: html

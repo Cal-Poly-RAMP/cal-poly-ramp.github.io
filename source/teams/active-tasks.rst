@@ -51,6 +51,8 @@ Backend (Verification)
 Layout (Synthesis & Timing)
 ---------------------------
 
+You can watch intro video here: `CARP Layout Team - Flow Demo <https://www.youtube.com/watch?v=x48YaTp-b7Q>`_.
+
 - [ ] **Synthesis Check**
 
   * Synthesize the pipelined multiplier with Yosys/OpenLane.
