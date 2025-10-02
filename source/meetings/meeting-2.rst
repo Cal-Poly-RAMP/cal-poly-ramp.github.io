@@ -1,4 +1,4 @@
-STA and RISC-V M Extension
+CARP Meeting 2
 =========
 
 .. note::

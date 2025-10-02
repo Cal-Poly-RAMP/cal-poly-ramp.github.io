@@ -1,5 +1,5 @@
 =======
-Kickoff
+CARP Meeting 1
 =======
 
 .. note::

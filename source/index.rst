@@ -25,6 +25,13 @@ CARP Contributor Homepage
 
 .. toctree::
   :hidden:
+  :maxdepth: 3
+  :caption: Taskboard
+
+  tasks
+
+.. toctree::
+  :hidden:
   :maxdepth: 4
   :caption: Resources and Guides
 
@@ -51,13 +58,8 @@ CARP Contributor Homepage
   meetings/meeting-1
   meetings/meeting-2
   meetings/meeting-3
+  meetings/meeting-4
 
-.. toctree::
-  :hidden:
-  :maxdepth: 3
-  :caption: Taskboard
-
-  tasks
 
 .. meta::
   :description: CARP Documentation Site
@@ -121,6 +123,8 @@ Meetings
 :doc:`meetings/meeting-2`
 
 :doc:`meetings/meeting-3`
+
+:doc:`meetings/meeting-4`
 
 
 .. important:: The 3rd meeting will be 9/27/2025 @ 12:00 PM in Bldg. 20, Room 100
