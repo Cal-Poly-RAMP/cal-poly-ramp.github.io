@@ -103,7 +103,6 @@ Action Items
   * Backend: multiplier verification report + coverage plan.
   * Layout: synthesis + timing report of multiplier.
 
-Slides
-------
+
 :doc:`Meeting Slides <meeting-4-slides>`
 ---------------------------

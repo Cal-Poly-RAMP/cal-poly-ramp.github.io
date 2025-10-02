@@ -11,7 +11,7 @@ CARP Core Frontend Tasks
 ------------------
 
 - [ ] **Pipeline Control**
-  
+
   * Add branch and jump instructions (BEQ, BNE, JAL, JALR).
   * Extend hazard unit for branch flush and forwarding.
 
@@ -111,4 +111,3 @@ CARP Core Frontend Tasks
 
   * How to build, run tests, and compare with Spike.
   * Coding style, contribution guide, and CARP workflow.
-

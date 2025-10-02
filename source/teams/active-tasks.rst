@@ -11,7 +11,7 @@ Frontend (RTL Design)
 ---------------------
 
 - [ ] **Multiplier Architecture Research**
-  
+
   * Explore pipelined multiplier designs (Booth, Wallace-tree, shift-add).
   * Study tradeoffs for 3-stage pipelined implementation with barrel shifting.
   * Ensure RS1/RS2 operand switching logic is included for signed/unsigned ops.

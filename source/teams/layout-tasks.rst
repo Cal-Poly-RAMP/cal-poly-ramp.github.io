@@ -4,7 +4,7 @@ CARP Layout Team Tasks
 .. note::
 
    The layout team is focused on **memory macros, floorplanning, and synthesis/timing
-   experiments** for the CARP Core. Current emphasis is on **SRAM/ROM macros** and 
+   experiments** for the CARP Core. Current emphasis is on **SRAM/ROM macros** and
    evaluating the **3-stage pipelined multiplier**.
 
 1. Memory Macros
