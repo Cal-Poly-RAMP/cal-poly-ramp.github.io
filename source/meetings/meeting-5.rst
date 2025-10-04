@@ -3,8 +3,8 @@ CARP Meeting 5
 
 .. note::
 
-   This meeting emphasizes **execution and deliverables**.  
-   Each team should come up with initial results (designs, simulations, or documentation drafts).  
+   This meeting emphasizes **execution and deliverables**.
+   Each team should come up with initial results (designs, simulations, or documentation drafts).
    Coordination between Frontend, Backend, and Layout remains critical.
 
 Where Are We At?
@@ -41,7 +41,7 @@ Frontend Team (RTL Design)
 **Leads:** Saul Rodriguez, Micah Miller
 
 - **Responsibilities**
-  
+
   * Own RTL for multiplier/divider units.
   * Divider = shift-subtract radix 2
   * Ensure ISA compliance and integration with OTTER pipeline.
@@ -59,7 +59,7 @@ Backend Team (Verification)
 **Leads:** Robert Bloomfield
 
 - **Responsibilities**
-  
+
   * Regression testing and simulation of multiplier/divider.
   * Hazard/stall/flush verification across pipeline.
   * Build reusable testbench infrastructure.
@@ -76,7 +76,7 @@ Layout Team (Physical / Floorplan)
 **Leads:** Jarnail, Ryan
 
 - **Responsibilities**
-  
+
   * Bridge RTL → physical implementation.
   * Research memory macros (SRAM, ROM, DFFRAM).
   * Begin floorplan and block-level planning.
@@ -91,15 +91,14 @@ Next Steps
 ----------
 
 - By **end of today**:
-  
-  * All: Work on Multiplier Report 
+
+  * All: Work on Multiplier Report
   * Frontend: Divider RTL skeletons checked into repo.
   * Backend: Multiplier regression results documented.
   * Layout: Macro integration report and draft floorplan outline.
 
 - By **next week**:
-  
+
   * Integrated multiplier/divider in pipeline simulation.
   * Verification coverage metrics started.
   * Layout flow demo with memory macros and floorplan snapshot.
-
