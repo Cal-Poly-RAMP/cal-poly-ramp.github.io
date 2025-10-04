@@ -60,6 +60,7 @@ CARP Contributor Homepage
   meetings/meeting-2
   meetings/meeting-3
   meetings/meeting-4
+  meetings/meeting-5
 
 
 .. meta::
@@ -134,6 +135,8 @@ Meetings
 :doc:`meetings/meeting-3`
 
 :doc:`meetings/meeting-4`
+
+:doc:`meetings/meeting-5`
 
 
 .. important:: The 5th meeting will be 10/4/2025 @ 12:00 PM in Bldg. 20, Room 100
