@@ -43,6 +43,7 @@ CARP Contributor Homepage
   docs/FreeRTOS/index
   docs/memory/index
   docs/risc-v/index
+  docs/intro-comp-arch
 
 .. toctree::
   :hidden:
@@ -61,7 +62,8 @@ CARP Contributor Homepage
   meetings/meeting-3
   meetings/meeting-4
   meetings/meeting-5
-
+  meetings/meeting-67
+  meetings/meeting-8
 
 .. meta::
   :description: CARP Documentation Site
