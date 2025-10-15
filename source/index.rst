@@ -141,7 +141,7 @@ Meetings
 :doc:`meetings/meeting-5`
 
 
-.. important:: The 5th meeting will be 10/4/2025 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The 8th meeting will be 10/4/2025 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
