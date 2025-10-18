@@ -64,6 +64,7 @@ CARP Contributor Homepage
   meetings/meeting-5
   meetings/meeting-67
   meetings/meeting-8
+  meetings/meeting-9
 
 .. meta::
   :description: CARP Documentation Site
@@ -87,11 +88,11 @@ Here you will find the project outline, documentation, schedule, meeting info, a
    :alt: CARP First Meeting Picture
    :width: 400px
 
-.. |carp2| image:: img/carp-second-meeting-picture.jpg
+.. |carp2| image:: img/carp-sixth-meeting-picture.jpg
    :alt: CARP Second Meeting Picture
    :width: 400px
 
-..  |carp3| image:: img/carp-third-meeting-picture.jpg
+..  |carp3| image:: img/carp-eighth-meeting-picture.jpg
    :alt: CARP Third Meeting Picture
    :width: 400px
 
@@ -106,7 +107,7 @@ Here you will find the project outline, documentation, schedule, meeting info, a
 
    <div style="text-align: center;">
 
-  CARP Meeting 1 - 4
+  CARP Meeting 1, 4, 6, 8
 
 .. raw:: html
 
@@ -140,8 +141,14 @@ Meetings
 
 :doc:`meetings/meeting-5`
 
+:doc:`meetings/meeting-67`
 
-.. important:: The 8th meeting will be 10/4/2025 @ 12:00 PM in Bldg. 20, Room 100
+:doc:`meetings/meeting-8`
+
+:doc:`meetings/meeting-9`
+
+
+.. important:: The 9th meeting will be 10/18/2025 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
