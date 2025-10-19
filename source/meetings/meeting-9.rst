@@ -3,7 +3,7 @@ CARP Meeting 9
 
 .. note::
 
-   This meeting focuses on **branch prediction research and design**—laying the groundwork for next week’s implementation.  
+   This meeting focuses on **branch prediction research and design**—laying the groundwork for next week’s implementation.
    Building on Meeting 8, we’ll move from concept to architectural plan for the **Pattern History Table (PHT)**, **Branch Register**, and **2-bit saturating predictor FSM**, as well as reviewing jump instruction control flow.
 
 Where We Left Off
@@ -86,6 +86,6 @@ Next Steps
 
 ---
 
-*Note:*  
-This phase marks our transition from conceptual understanding to architectural design for **speculative control flow**.  
+*Note:*
+This phase marks our transition from conceptual understanding to architectural design for **speculative control flow**.
 Treat this as a preparation sprint before implementation week.
