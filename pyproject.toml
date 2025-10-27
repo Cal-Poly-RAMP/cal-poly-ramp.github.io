@@ -26,6 +26,7 @@ dependencies = [
   "sphinx-favicon>=1.0.1",
   "sphinx-tabs>=3.4.7",
   "sphinxcontrib-mermaid>=1.0.0",
+  "spinxcontrib-images>=1.0.1",
 ]
 
 [tool.uv.sources]
