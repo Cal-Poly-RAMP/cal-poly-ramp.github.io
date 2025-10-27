@@ -41,7 +41,15 @@ extensions = [
     "myst_parser",
     "sphinxcontrib.mermaid",
     "sphinx.ext.mathjax",  # enable LaTeX/MathJax
+    "sphinxcontrib.images",
 ]
+
+images_config = {
+    "backend": "LightBox2",
+    "default_image_width": "300px",
+    "download": False,
+}
+
 myst_enable_extensions = [
     "dollarmath",
 ]

@@ -16,7 +16,7 @@
 
 [Layout Team](teams/layout-tasks.rst)
 
-[OS Team](teams/os-tasks.rst)
+[OS Team](teams/os-tasks.md)
 
 ## Organization Tasks
 

@@ -65,6 +65,7 @@ CARP Contributor Homepage
   meetings/meeting-67
   meetings/meeting-8
   meetings/meeting-9
+  meetings/verilog-meetup
 
 .. meta::
   :description: CARP Documentation Site
@@ -84,30 +85,43 @@ Here you will find the project outline, documentation, schedule, meeting info, a
    </div>
 
 
-.. |carp1| image:: img/carp-first-meeting-picture.jpg
-   :alt: CARP First Meeting Picture
-   :width: 400px
 
-.. |carp2| image:: img/carp-sixth-meeting-picture.jpg
-   :alt: CARP Second Meeting Picture
-   :width: 400px
 
-..  |carp3| image:: img/carp-eighth-meeting-picture.jpg
-   :alt: CARP Third Meeting Picture
-   :width: 400px
+.. thumbnail:: img/carp-first-meeting-picture.jpg
+   :group: carp-gallery
+   :title: CARP Meeting 1
+   :width: 300px
 
-.. |carp4| image:: img/carp-fourth-meeting-picture.jpg
-   :alt: CARP Fourth Meeting Picture
-   :width: 400px
+.. thumbnail:: img/carp-fourth-meeting-picture.jpg
+   :group: carp-gallery
+   :title: CARP Meeting 4
+   :width: 300px
 
-|carp1| |carp2|
-|carp3| |carp4|
+.. thumbnail:: img/carp-sixth-meeting-picture.jpg
+   :group: carp-gallery
+   :title: CARP Meeting 6
+   :width: 300px
+
+.. thumbnail:: img/carp-eighth-meeting-picture.jpg
+   :group: carp-gallery
+   :title: CARP Meeting 8
+   :width: 300px
+
+.. thumbnail:: img/carp-sv-meetups-grainy.png
+   :group: carp-gallery
+   :title: Verilog Meetups Day 1
+   :width: 300px
+
+.. thumbnail:: img/verilog-meetups-audience.png
+   :group: carp-gallery
+   :title: Verilog Meetups Audience
+   :width: 300px
 
 .. raw:: html
 
    <div style="text-align: center;">
 
-  CARP Meeting 1, 4, 6, 8
+  CARP Meetings and Verilog-Meetup Event
 
 .. raw:: html
 
@@ -146,6 +160,8 @@ Meetings
 :doc:`meetings/meeting-8`
 
 :doc:`meetings/meeting-9`
+
+:doc:`meetings/verilog-meetup`
 
 
 .. important:: The 9th meeting will be 10/18/2025 @ 12:00 PM in Bldg. 20, Room 100
