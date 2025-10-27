@@ -106,8 +106,8 @@ Recommended flow:
 Student & Guest Contributions
 -----------------------------
 - **Alex Wong:** FIFO deep dive – CDC safety, gray coding, and verification tips.
-- **Francisco Wilken & Henry Evans:** lightning talks and STA/theory-to-practice bridges.
-- **Cisco Engineers:** ASIC flow and memory repair scanning – aligning school projects to industry signoff.
+- **Francisco Wilken:** ASIC flow and memory repair scanning.
+- **Henry Evans:** Lightning talks and STA/theory-to-practice bridges.
 
 Takeaways
 ---------
@@ -116,15 +116,10 @@ Takeaways
 - Streaming interfaces require careful latency/throughput planning; AXI-Stream is simple but unforgiving under backpressure.
 - ASIC realities (DFT, STA, PPA) shape micro-architecture choices early; plan for them from the start.
 
-Next Steps
-----------
-- Work through **systemverilog-homework** in order; add assertions and coverage.
-- Attempt the **AXI-Stream + FPU** challenge and document your architecture, latency math, and scoreboard.
-- Bring results to the next CARP meeting for code review and timing discussions.
 
 Credits
 -------
 - **Presenter:** Yuri Panchul (Samsung)
-- **Sessions:** Cisco engineers; Henry Evans
-- **Guests:** Alex Wong; student presenters Francisco Wilken and Henry Evans
+- **Sessions:** Francisco Wilken; Henry Evans
+- **Guests:** Alex Wong, Francisco Wilken, and Henry Evans
 - **Hosts:** CARP and CPES
