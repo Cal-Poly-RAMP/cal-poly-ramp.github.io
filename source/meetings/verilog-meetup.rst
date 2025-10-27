@@ -2,9 +2,9 @@
 Verilog Meetup @ Cal Poly
 =========================
 
-**Host:** CARP (Computer Architecture Research Project) + CPES  
-**Presenter:** Yuri Panchul (Senior GPU Architect, Samsung)  
-**Date:** Two-day workshop (on campus)  
+**Host:** CARP (Computer Architecture Research Project) + CPES
+**Presenter:** Yuri Panchul (Senior GPU Architect, Samsung)
+**Date:** Two-day workshop (on campus)
 **Format:** Talks, live demos, student lightning talks, and hands-on challenges
 
 Overview
@@ -13,9 +13,9 @@ Yuri Panchul led a two-day Verilog/SystemVerilog meetup at Cal Poly, hosted by C
 
 Resources (Repos & Materials)
 -----------------------------
-- Basics / Graphics / Music (intro-to-interactive RTL):  
+- Basics / Graphics / Music (intro-to-interactive RTL):
   https://github.com/verilog-meetup/basics-graphics-music
-- SystemVerilog Homework (exercises, patterns, testbenches):  
+- SystemVerilog Homework (exercises, patterns, testbenches):
   https://github.com/verilog-meetup/systemverilog-homework
 
 
