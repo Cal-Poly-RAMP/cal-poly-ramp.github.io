@@ -44,6 +44,7 @@ CARP Contributor Homepage
   docs/memory/index
   docs/risc-v/index
   docs/intro-comp-arch
+  docs/arm_v_x86
 
 .. toctree::
   :hidden:
