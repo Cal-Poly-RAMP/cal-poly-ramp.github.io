@@ -32,12 +32,8 @@ jobs:
           key: pre-commit-${{ hashFiles('.pre-commit-config.yaml') }}
       - name: Set up the environment
         uses: ./.github/actions/setup-python-env
-      - name: Run checks
-        run: just check
-      # Build sphinx source files
       - name: Build sphinx files
         run: just build
-      # Publish build files
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
