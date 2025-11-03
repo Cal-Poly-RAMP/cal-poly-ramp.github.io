@@ -1,6 +1,6 @@
 [build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "carpDocs"
@@ -29,49 +29,11 @@ dependencies = [
   "sphinxcontrib-images>=1.0.1",
 ]
 
-[tool.uv.sources]
+[dependency-groups]
+dev = ["pre-commit>=4.1.0", "ipykernel>=6.29.5", "mypy>=1.15.0"]
 
-[tool.uv.workspace]
-members = ["shared/*", "src/*"]
-
-[tool.uv]
-dev-dependencies = [
-  "pre-commit>=3.8.0",
-  "ipykernel>=6.29.5",
-  "pytest>=8.3.2",
-  # These are added as dev dependencies becuase they should be available
-  #  when developing the project.
-  "deptry>=0.23.0",
-  "mypy>=1.15.0",
-  "pytest-cov>=6.0.0",
-  "types-docutils>=0.21.0.20241128",
-  "types-pygments>=2.19.0.20250219",
-]
-
-package = false
-
-[tool.black]
-line-length = 88
-exclude = '''
-^/(
-  (
-      \.eggs         # exclude a few common directories in the
-    | \.git          # root of the project
-    | \.hg
-    | \.mypy_cache
-    | \.venv
-    | _build
-    | build
-    | dist
-    | .notebooks
-    | .nox
-  )
-)
-'''
-
-[tool.isort]
-profile = "black"
-extend_skip = [".tmp", ".venv"]
+[tool.setuptools]
+packages = []
 
 [tool.mypy]
 exclude = "^.tmp/"
@@ -81,25 +43,47 @@ ignore_missing_imports = true
 skips = ['B101']
 
 [tool.ruff]
-lint.ignore = ["E501"]
-extend-exclude = ["__pycache__", "docs", "site", ".tmp"]
+
+extend-exclude = [
+  "__pycache__",
+  "docs",
+  "site",
+  ".eggs",
+  ".git",
+  ".venv",
+  "build",
+  "dist",
+  "notebooks",
+  ".cache",
+]
+line-length = 120
+
+[tool.ruff.lint]
+ignore = [
+  "E402",   # Module level import not at top of file
+  "E501",   # Line too long
+  "E203",   # Whitespace before ':' -> conflicts with black
+  "D401",   # First line should be in imperative mood
+  "RET504", # Unnecessary variable assignment before return statement
+  "RET505", # Unnecessary elif after return statement
+  "SIM102", # Use a single if-statement instead of nested if-statements
+  "SIM117", # Merge with statements for context managers that have same scope
+  "SIM118", # Checks for key-existence checks against dict.keys() calls
+]
+select = ["E", "F", "I"]
+
+[tool.ruff.lint.per-file-ignores]
+"*/__init__.py" = ["F401"] # Unused import
+
+[tool.ruff.lint.isort]
+known-first-party = [""]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.mccabe]
+max-complexity = 30
 
 [tool.pytest.ini_options]
 cache_dir = ".pytest_cache"
 pythonpath = [".", "scripts", "src"]
-
-[tool.deptry.per_rule_ignores]
-DEP002 = [
-  "docutils",
-  "furo",
-  "livereload",
-  "myst-parser",
-  "pycodestyle",
-  "sphinx",
-  "sphinx-autobuild",
-  "sphinx-favicon",
-  "sphinx-tabs",
-  "pygments",
-  "sphinxcontrib-mermaid",
-  "sphinxcontrib-images",
-]
