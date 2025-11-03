@@ -37,10 +37,10 @@ release = "1.0"
 extensions = [
     # Sphinx's own extensions
     "sphinx.ext.githubpages",
+    "sphinx.ext.mathjax",
     # External stuff
     "myst_parser",
     "sphinxcontrib.mermaid",
-    "sphinx.ext.mathjax",  # enable LaTeX/MathJax
     "sphinxcontrib.images",
 ]
 
@@ -157,7 +157,7 @@ htmlhelp_basename = "pydoc"
 html_show_sourcelink = False
 
 html_context = {
-    "default_description": "NerdyLib Documentation",
+    "default_description": "CARP Documentation",
 }
 
 html_css_files = ["css/custom.css", "css/user.define.css"]
@@ -172,8 +172,8 @@ nitpicky = True
 
 language = "en"
 myst_html_meta = {
-    "description": "NerdyLib Documentation Site",
-    "keywords": "pros, vex-robotics, vex-v5",
+    "description": "CARP Documentation Site",
+    "keywords": "RISC-V, SystemVerilog, SystemC, Verilog, ASIC, FPGA",
 }
 
 # Add mermaid to myst
