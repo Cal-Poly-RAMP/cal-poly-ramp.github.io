@@ -40,11 +40,19 @@ CARP Contributor Homepage
   docs/asic-tools-installation/visual-setup
   docs/flow-guides/index
   docs/asic-class/asic-class
+  docs/timing-guides/index
   docs/FreeRTOS/index
-  docs/memory/index
+
+  .. docs/memory/index
+
   docs/risc-v/index
   docs/intro-comp-arch
+  docs/intro-fifo
+  docs/intro-to-asic
   docs/arm_v_x86
+  docs/bist
+
+
 
 .. toctree::
   :hidden:

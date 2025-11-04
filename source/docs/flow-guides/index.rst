@@ -9,6 +9,8 @@ ASIC Tools Usage Guides
 
   :doc:`yosys-usage`
 
+  :doc:`cocotb-guide`
+
 .. toctree::
   :hidden:
   :maxdepth: 4
@@ -19,3 +21,4 @@ ASIC Tools Usage Guides
   iverilog-guide
   verilator-guide
   yosys-usage
+  cocotb-guide
