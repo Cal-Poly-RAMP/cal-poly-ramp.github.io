@@ -173,7 +173,7 @@ Meetings
 :doc:`meetings/verilog-meetup`
 
 
-.. important:: The 9th meeting will be 10/18/2025 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The 10th meeting will be 11/3/2025 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
