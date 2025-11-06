@@ -10,7 +10,7 @@ CARP Contributor Homepage
 
 .. toctree::
   :hidden:
-  :maxdepth: 2
+  :maxdepth: 3
   :caption: Home
 
   self
@@ -32,7 +32,7 @@ CARP Contributor Homepage
 
 .. toctree::
   :hidden:
-  :maxdepth: 4
+  :maxdepth: 5
   :caption: Resources and Guides
 
   docs/video-guides/video-guides
@@ -45,12 +45,8 @@ CARP Contributor Homepage
 
   .. docs/memory/index
 
-  docs/risc-v/index
-  docs/intro-comp-arch
-  docs/intro-fifo
-  docs/intro-to-asic
-  docs/arm_v_x86
-  docs/bist
+  docs/presentations/index
+  docs/carpcore/eelhaz
 
 
 
@@ -173,7 +169,7 @@ Meetings
 :doc:`meetings/verilog-meetup`
 
 
-.. important:: The 10th meeting will be 11/3/2025 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The 11th meeting will be 11/8/2025 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
