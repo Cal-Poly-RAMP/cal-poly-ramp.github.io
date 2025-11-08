@@ -169,7 +169,7 @@ Meetings
 :doc:`meetings/verilog-meetup`
 
 
-.. important:: The 11th meeting will be 11/8/2025 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The 12th meeting will be 11/12/2025 @ 6:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
