@@ -176,3 +176,5 @@ cython_debug/
 .pypirc
 
 /_site/
+
+/just/

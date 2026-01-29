@@ -169,7 +169,7 @@ Meetings
 :doc:`meetings/verilog-meetup`
 
 
-.. important:: The 14th meeting will be 11/19/2025 @ 6:00 PM in Bldg. 20, Room 100
+.. important:: The 14th meeting will be 1/31/2026 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 

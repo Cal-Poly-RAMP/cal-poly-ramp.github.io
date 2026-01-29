@@ -21,3 +21,4 @@ Presenter Slides
   ../intro-to-asic
   ../intro-fifo
   ../bist
+  ../intro-to-formal
