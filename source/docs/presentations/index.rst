@@ -11,6 +11,8 @@ Presenter Slides
 
   :doc:`../bist`
 
+  :doc:`../intro-to-formal`
+
 .. toctree::
   :hidden:
   :maxdepth: 4
@@ -21,3 +23,4 @@ Presenter Slides
   ../intro-to-asic
   ../intro-fifo
   ../bist
+  ../intro-to-formal

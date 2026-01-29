@@ -42,6 +42,7 @@ CARP Contributor Homepage
   docs/asic-class/asic-class
   docs/timing-guides/index
   docs/FreeRTOS/index
+  docs/risc-v/index
 
   .. docs/memory/index
 
