@@ -16,3 +16,4 @@ RISC-V References
   riscv-isa
   riscv-privileged
   riscv-unprivileged
+  ../carpcore/eelhaz

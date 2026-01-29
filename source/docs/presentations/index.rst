@@ -24,3 +24,4 @@ Presenter Slides
   ../intro-fifo
   ../bist
   ../intro-to-formal
+  ../timing-guides/index

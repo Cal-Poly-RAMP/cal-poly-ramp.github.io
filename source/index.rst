@@ -36,18 +36,13 @@ CARP Contributor Homepage
   :caption: Resources and Guides
 
   docs/video-guides/video-guides
-  docs/asic-tools-installation/asic-tools
-  docs/asic-tools-installation/visual-setup
-  docs/flow-guides/index
+  docs/asic-tools-installation/tool-setup
   docs/asic-class/asic-class
-  docs/timing-guides/index
-  docs/FreeRTOS/index
   docs/risc-v/index
 
   .. docs/memory/index
 
   docs/presentations/index
-  docs/carpcore/eelhaz
 
 
 
@@ -63,15 +58,7 @@ CARP Contributor Homepage
   :maxdepth: 3
   :caption: Meetings
 
-  meetings/meeting-1
-  meetings/meeting-2
-  meetings/meeting-3
-  meetings/meeting-4
-  meetings/meeting-5
-  meetings/meeting-67
-  meetings/meeting-8
-  meetings/meeting-9
-  meetings/verilog-meetup
+  meetings/fall-meetings
 
 .. meta::
   :description: CARP Documentation Site
@@ -151,26 +138,9 @@ ASIC-Tools Installation Guide
 
 Meetings
 ~~~~~~~~
-:doc:`/meetings/meeting-1`
+:doc:`/meetings/fall-meetings`
 
-:doc:`meetings/meeting-2`
-
-:doc:`meetings/meeting-3`
-
-:doc:`meetings/meeting-4`
-
-:doc:`meetings/meeting-5`
-
-:doc:`meetings/meeting-67`
-
-:doc:`meetings/meeting-8`
-
-:doc:`meetings/meeting-9`
-
-:doc:`meetings/verilog-meetup`
-
-
-.. important:: The 14th meeting will be 1/31/2026 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The next meeting will be 1/31/2026 @ 12:00 PM in Bldg. 20, Room 100
 
 .. raw:: html
 
