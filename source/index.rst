@@ -18,7 +18,7 @@ CARP Contributor Homepage
 .. toctree::
   :hidden:
   :maxdepth: 3
-  :caption: Project Outline
+  :caption: Project Outlines
 
   proj-info
   docs/risc-v/carp-opcodes
@@ -128,7 +128,7 @@ Discord
 ~~~~~~~
 `CARP Discord Server <https://discord.gg/hg3czYUJB2>`_
 
-Project Outline and Design
+Project Outlines
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
 
@@ -140,7 +140,7 @@ Meetings
 ~~~~~~~~
 :doc:`/meetings/fall-meetings`
 
-.. important:: The next meeting will be 1/31/2026 @ 12:00 PM in Bldg. 20, Room 100
+.. important:: The next meeting will be in Bldg. 20, Room 145 on Monday, April 20th at 6:00 PM
 
 .. raw:: html
 
