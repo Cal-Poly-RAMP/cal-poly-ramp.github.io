@@ -28,13 +28,6 @@ CARP Contributor Homepage
 
 .. toctree::
   :hidden:
-  :maxdepth: 3
-  :caption: Taskboard
-
-  tasks
-
-.. toctree::
-  :hidden:
   :maxdepth: 5
   :caption: Resources and Guides
 
@@ -47,13 +40,6 @@ CARP Contributor Homepage
   docs/presentations/index
 
 
-
-.. toctree::
-  :hidden:
-  :maxdepth: 3
-  :caption: Fall Schedule
-
-  schedule
 
 .. toctree::
   :hidden:
@@ -82,12 +68,12 @@ Here you will find the project outline, documentation, schedule, meeting info, a
 
 
 
-.. thumbnail:: img/carp-first-meeting-picture.jpg
+.. thumbnail:: img/img1.jpg
    :group: carp-gallery
    :title: CARP Meeting 1
    :width: 300px
 
-.. thumbnail:: img/carp-fourth-meeting-picture.jpg
+.. thumbnail:: img/img2.jpg
    :group: carp-gallery
    :title: CARP Meeting 4
    :width: 300px
@@ -133,6 +119,7 @@ Discord
 Project Outlines
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
+
 :doc:`gar`
 
 ASIC-Tools Installation Guide
@@ -149,9 +136,3 @@ Meetings
 
    <h1>Schedule</h1>
    <iframe src="https://calendar.google.com/calendar/embed?src=49700e0209179c4d565157ceba4f7f0be256dff9aa0c7615eb68c1cbf6eb2269%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-Taskboard
-~~~~~~~~~
-:doc:`tasks`
-
-.. raw:: html
