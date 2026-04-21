@@ -5,7 +5,9 @@
 ====================
 CARP Contributor Homepage
 ====================
+
 .. raw:: html
+
    </div>
 
 .. toctree::
@@ -22,6 +24,7 @@ CARP Contributor Homepage
 
   proj-info
   docs/risc-v/carp-opcodes
+  gar
 
 .. toctree::
   :hidden:
@@ -40,7 +43,6 @@ CARP Contributor Homepage
   docs/asic-class/asic-class
   docs/risc-v/index
 
-  .. docs/memory/index
 
   docs/presentations/index
 
@@ -131,6 +133,7 @@ Discord
 Project Outlines
 ~~~~~~~~~~~~~~~
 :doc:`proj-info`
+:doc:`gar`
 
 ASIC-Tools Installation Guide
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,7 +143,7 @@ Meetings
 ~~~~~~~~
 :doc:`/meetings/fall-meetings`
 
-.. important:: The next meeting will be in Bldg. 20, Room 145 on Monday, April 20th at 6:00 PM
+.. important:: The next meeting will be in Bldg. 20, Room 145 on Wednesday, April 22nd at 6:00 PM
 
 .. raw:: html
 
