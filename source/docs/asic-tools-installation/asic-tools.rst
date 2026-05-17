@@ -10,48 +10,71 @@ A ready-to-use Docker container with open-source ASIC and RISC-V tools, so you d
 
    Always verify the versions of tools installed in the container to ensure compatibility with your project.
 
+.. important::
+
+   These instructions were written with Windows users in mind. For any Mac users, please install UTM and setup a virtual machine with Ubuntu 24.04.
+
+
 Quickstart
 ^^^^^^^^^^
 
-Ensure you have `VSCode <https://code.visualstudio.com/download>`_, Ubuntu/WSL, and the latest version of Docker installed. Enable WSL 2 integration with Docker.
+Ensure you have `VSCode <https://code.visualstudio.com/download>`_, Ubuntu on Windows Subsystem for Linux (WSL), and the latest version of Docker installed.
 
-If you need VSCode, Docker, or Ubuntu for WSL, please do the following (in the following order):
+If you need VSCode, Docker, or Ubuntu on WSL, please do the following (in the following order):
 
-Install VS Code and Docker
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- `Install VS Code <https://code.visualstudio.com/download>`_
-- `Install Docker <https://docs.docker.com/desktop/setup/install/windows-install/>`_
-
-.. note::
-
-   Open Command Prompt in **Administrator Mode** before running the commands.
-
-Install Ubuntu
-^^^^^^^^^^^^^^
+Install Ubuntu on WSL
+^^^^^^^^^^^^^^^^^^^^^
 
 .. code-block:: console
 
    wsl --install -d Ubuntu-24.04
 
-Install Common Programs
-^^^^^^^^^^^^^^^^^^^^^^^
+.. important::
 
-.. code-block:: console
+   Once Ubuntu 24.04 is installed and your computer restarts, open the Ubuntu 24.04 in the Start Menu and once the setup is complete, create your username and password and SAVE THEM. This must be done BEFORE installing Docker.
 
-   sudo apt update
-   sudo apt full-upgrade -y
+   Your default terminal when you open up Ubuntu should look like this:
 
+   .. container:: prompt-example
+
+      .. parsed-literal::
+
+         <USERNAME>@<COMPUTER_NAME>:~$ 
+
+   **not** like this.
+
+   .. container:: prompt-example
+
+      .. parsed-literal::
+
+         root@<COMPUTER_NAME>:~# 
+
+Install VS Code and Docker
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Install VS Code <https://code.visualstudio.com/download>`_
+
+.. note::
+
+   Refer to the VS Code extensions in :doc:`visual-setup`
+
+- `Install Docker <https://docs.docker.com/desktop/setup/install/windows-install/>`_
+
+.. important::
+
+   Open Command Prompt or Windows PowerShell in **Administrator Mode** before running the commands. Enable WSL 2 integration within Docker Settings > Resources > WSL integration.
 
 Installation Guide
 ------------------
+
+Once Docker is installed and the Ubuntu 24.04 distribution is installed, perform the following steps within an Ubuntu terminal.
 
 Install the Dependencies
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. code-block:: console
 
-   sudo apt update && sudo apt install -y build-essential git curl wget unzip zip tar gdb htop net-tools man-db lsb-release software-properties-common python3 python3-pip python3-venv cmake valgrind openssh-client nodejs npm default-jdk golang tmux neofetch tree nano vim lsof
+   sudo apt update && sudo apt full-upgrade -y && sudo apt install -y build-essential git curl wget unzip zip tar gdb htop net-tools man-db lsb-release software-properties-common python3 python3-pip python3-venv cmake valgrind openssh-client nodejs npm default-jdk golang tmux neofetch tree nano vim lsof
 
 Configure Git and Install OpenSSH
 ---------------------------------
