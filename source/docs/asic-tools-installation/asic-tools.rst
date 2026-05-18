@@ -10,20 +10,21 @@ A ready-to-use Docker container with open-source ASIC and RISC-V tools, so you d
 
    Always verify the versions of tools installed in the container to ensure compatibility with your project.
 
-.. important::
-
-   These instructions were written with Windows users in mind. For any Mac users, please install UTM and setup a virtual machine with Ubuntu 24.04.
-
-
 Quickstart
 ^^^^^^^^^^
 
-Ensure you have `VSCode <https://code.visualstudio.com/download>`_, Ubuntu on Windows Subsystem for Linux (WSL), and the latest version of Docker installed.
+Ensure you have `VSCode <https://code.visualstudio.com/download>`_, Ubuntu for Windows Subsystem for Linux (WSL), and the latest version of Docker installed.
 
-If you need VSCode, Docker, or Ubuntu on WSL, please do the following (in the following order):
+If you need Ubuntu, VS Code, and/or Docker Desktop please do the following (in the following order):
 
-Install Ubuntu on WSL
-^^^^^^^^^^^^^^^^^^^^^
+.. important::
+
+   These instructions were written with Windows users in mind. For any Mac users, disregard Ubuntu for WSL.
+
+Install Ubuntu for WSL
+^^^^^^^^^^^^^^^^^^^^^^
+
+Open Command Prompt or Windows PowerShell in **Administrator Mode** before running the following command.
 
 .. code-block:: console
 
@@ -31,13 +32,13 @@ Install Ubuntu on WSL
 
 .. important::
 
-   Once Ubuntu 24.04 is installed and your computer restarts, open the Ubuntu 24.04 in the Start Menu and once the setup is complete, create your username and password and SAVE THEM. This must be done BEFORE installing Docker.
+   Once Ubuntu 24.04 is installed and your computer restarts, open the Ubuntu 24.04 in the Start Menu to complete setup. Then, create your username and password and SAVE THEM. This must be done BEFORE installing Docker.
 
    Your default terminal when you open up Ubuntu should look like this:
 
    .. container:: prompt-example
 
-      .. parsed-literal::
+      .. code-block:: console
 
          <USERNAME>@<COMPUTER_NAME>:~$ 
 
@@ -45,42 +46,55 @@ Install Ubuntu on WSL
 
    .. container:: prompt-example
 
-      .. parsed-literal::
+      .. code-block:: console
 
          root@<COMPUTER_NAME>:~# 
 
-Install VS Code and Docker
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Install VS Code
+^^^^^^^^^^^^^^^
 
 - `Install VS Code <https://code.visualstudio.com/download>`_
 
-.. note::
+.. important::
 
    Refer to the VS Code extensions in :doc:`visual-setup`
 
-- `Install Docker <https://docs.docker.com/desktop/setup/install/windows-install/>`_
+Install Docker
+^^^^^^^^^^^^^^
+
+- Install Docker for `Windows <https://docs.docker.com/desktop/setup/install/windows-install/>`_ or `Mac <https://docs.docker.com/desktop/setup/install/mac-install/>`_
 
 .. important::
 
-   Open Command Prompt or Windows PowerShell in **Administrator Mode** before running the commands. Enable WSL 2 integration within Docker Settings > Resources > WSL integration.
+   In Windows, enable WSL2 integration within Docker Settings > Resources > WSL integration.
 
 Installation Guide
 ------------------
 
-Once Docker is installed and the Ubuntu 24.04 distribution is installed, perform the following steps within an Ubuntu terminal.
+Once Ubuntu distribution is completely setup and Docker is installed, perform the following steps within an Ubuntu terminal.
 
 Install the Dependencies
 ^^^^^^^^^^^^^^^^^^^^^^^^
+
+- WSL Users
 
 .. code-block:: console
 
    sudo apt update && sudo apt full-upgrade -y && sudo apt install -y build-essential git curl wget unzip zip tar gdb htop net-tools man-db lsb-release software-properties-common python3 python3-pip python3-venv cmake valgrind openssh-client nodejs npm default-jdk golang tmux neofetch tree nano vim lsof
 
+- Mac Users
+
+.. code-block:: console
+
+   brew update
+   brew install git curl wget unzip zip gdb htop tmux tree nano vim lsof cmake python node npm openjdk go neofetch
+   xcode-select --install
+
 Configure Git and Install OpenSSH
 ---------------------------------
 
-Configure your GitHub username for WSL/Ubuntu
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Configure your GitHub username for WSL/Ubuntu/Mac
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. code-block:: console
 
@@ -90,10 +104,20 @@ Configure your GitHub username for WSL/Ubuntu
 Generate an SSH Key
 ^^^^^^^^^^^^^^^^^^^
 
+- WSL/Ubuntu Users
+
 .. code-block:: console
 
    sudo apt install -y openssh-client
    ssh-keygen
+
+- Mac Users
+
+.. code-block:: console
+
+   ssh-keygen -t ed25519 -C "you@example.com"
+   eval "$(ssh-agent -s)"
+   ssh-add --apple-use-keychain ~/.ssh/id_ed25519
 
 .. note::
 
