@@ -28,17 +28,15 @@ CARP Contributor Homepage
 
 .. toctree::
   :hidden:
-  :maxdepth: 5
+  :maxdepth: 6
   :caption: Resources and Guides
 
   docs/video-guides/video-guides
   docs/asic-tools-installation/tool-setup
   docs/asic-class/asic-class
   docs/risc-v/index
-
-
   docs/presentations/index
-
+  docs/tutorials/tutorials
 
 
 .. toctree::
